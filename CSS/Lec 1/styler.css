@@ -1,0 +1,82 @@
+/* tag element selector
+h1{
+    background-color:aquamarine;
+}
+
+ul{
+    background-color: blueviolet;
+}
+h2{
+    background-color: blue;
+}
+    */
+
+/* id bsae selector or #base selctotion*/
+/*#first{
+    background-color:red;
+}
+
+#second{
+    background-color: bisque;
+}
+*/
+/* class based selector */
+/*
+.third{
+    background-color: aqua;
+}
+
+.fourth{
+    background-color: aquamarine;
+} */
+
+/* group based selector */
+
+/*h1,.fourth,#first{
+ background-color: brown;
+}*/
+
+/*h1{
+background-color:rgba(244, 61, 247, 0.5);
+}
+
+h2{
+    background-color: hsla(180, 12%, 92%, 0.4);
+}*/
+
+/*h1{
+     background-color:#00ffff;
+}*/
+/* Font */
+h1{
+    font-size: 50px;
+} 
+ul{
+    font-size: 20px;
+}
+/*li{
+    font-size: 1em;
+}*/
+
+html{
+    font-size: 20px;
+}
+/*h2{
+    font-size: 3rem;
+}*/
+/*h2{
+    font-size: 2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+    
+} */
+ h2{
+     font-family: "Fira Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+ }
+li{
+    /*font-size: 5vh;*/
+    font-size: 30%;
+}

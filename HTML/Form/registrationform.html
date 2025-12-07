@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body>
+    
+    <h1>University Registration Form</h1>
+    <p>Please fill out the form below to register</p>
+    <hr>
+    
+    <form>
+     
+    <h2>Personal Details</h2>
+    <label for="fname">First Name:</label>
+    <input type="fname" name="username" id="fname"placeholder="e.g  Shahid" required>
+
+    <br><br>
+
+    <label for="lname">Last Name:</label>
+    <input type="lname" name="username" id="lname"placeholder="e.g  jamal">
+    
+    <br><br>
+
+    <label for="dob">Date of Birth:</label>
+    <input type="date" name="userdob" id="dob" required >
+
+    <br><br>
+
+    <label for="gender">Gender:</label>
+    
+        <br>
+        <label for="male">Male</label>
+        <input type="radio" name="usergender" id="male" value="male" required>
+        <br>
+        <label for="female">Female</label>
+        <input type="radio" name="usergender" id="female" value="female">
+        <br>
+        <label for="others">Others</label>
+        <input type="radio" name="usergender" id="others" value="others">
+        <br><br>
+        <label for="uploadimg">Upload Your Photo:</label><br>
+        <input type="file" name="" id="">
+        <br><br>
+        <hr><br>
+
+        <h2>Contact Information</h2>
+        
+        <label for="email">Email Address:</label>
+        <input type="email" name="useremail" id="email" placeholder="you@gmail.com" required>
+        <br>
+
+        <label for="phone">Phone Number:</label>
+        <input type="text" name="userphone" id="phone" placeholder="e.g 7566442145" required>
+        <br>
+
+        <label for="address">Address:</label><br>
+        <textarea name="address"  id="address" rows="10" cols="30"></textarea>
+        <br><br>
+
+        <hr>    
+        <h2>Academic Information</h2>
+
+        <label for="course">Select Your Course:</label><br>
+        <select name="course" id="course" required>
+            <option value="default">--Choose a course --  </option>
+            <option value="CSE">CSE</option>
+            <option value="ECE">ECE</option>
+            <option value="CIVIL">CIVIL </option>
+            <option value="IT">IT</option>
+        </select>
+        <br><br>
+
+        <label for="extracarri">Extracarriculam Interests:</label><br>
+        
+        <label for="sport">Sports</label>
+        <input type="checkbox" name="intrerest" id="sport" value="sport"><br>
+        
+        <label for="music&arts">Music & Arts</label>
+        <input type="checkbox" name="interest" value="music&arts" id="music&arts"><br>
+        
+        <label for="tclub">Technology Clubs</label> 
+        <input type="checkbox" name="interest" id="tclub" value="tclub"><br>
+
+        <label for="volunteering">Volunteering</label>
+        <input type="checkbox" name="interest" value="volunteering" id="volunteering">
+
+        <br><br>
+        <hr>
+
+        <h2>Create Your Account</h2>
+
+        
+
+        <label for="password">Create a Password:</label>
+        <input type="password" name="userpassword" id="password" required><br>
+
+        <br>
+
+        <label for="SQ">Security Question</label>
+        <select name="SQ" id="SQ" required>
+            <option value="petname">What was your firts pet's name?</option>
+            <option value="fbook">What is your favourate book?</option>
+            <option value="fsport">What is your favourate Sport?</option>
+            <option value="fschool">What was your firts school name?</option>
+        </select>
+        <br>
+        <br>
+
+        <label for="SA">Security Answer:</label>
+        <input type="text" name="SA" id="SA" required><br>
+        <br>
+
+        <input type="checkbox" name="terms&condition" id="terms&condition" required><label for="terms&condition">I agree for Terms & Conditions</label>
+        <br><br>
+        <hr>
+
+        <button type="submit">Register</button> 
+        <button type="reset">Clear Form</button>
+
+
+
+
+    
+    </form>    
+    
+</body>
+</html>

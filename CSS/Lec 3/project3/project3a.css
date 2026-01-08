@@ -1,0 +1,55 @@
+#container{
+    height: 300px;
+    width: 400px;
+    background-color: antiquewhite;
+    position: relative;
+   
+}
+
+#rectangle1{
+    height: 75px;
+    background-color: rgb(165, 8, 8);
+    box-sizing: border-box;
+    position: relative;
+    top: 0px;
+   
+
+}
+
+
+#rectangle3{
+    height: 150px;
+    background-color: rgb(5, 5, 100);
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    z-index: 10;
+    
+  
+
+}
+
+#rectangle2{
+
+    height: 75px;
+    background-color: rgb(165, 8, 8);
+    box-sizing: border-box;
+    position: relative;
+    top: 150px;
+    z-index:1;
+    
+   
+}
+
+#circle{
+     height: 80px;
+    width: 80px;
+    background-color:white;
+    border-radius: 50%;
+    position: absolute;
+    left: 150px;
+    top: 110px;
+
+}
+

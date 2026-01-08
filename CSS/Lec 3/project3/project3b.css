@@ -1,0 +1,33 @@
+.flag {
+  width: 400px;
+  height: 250px;
+}
+
+/* Top Red Strip */
+.top {
+  height: 25%;
+  background-color: #c8102e;
+}
+
+/* Middle Blue Strip */
+.middle {
+  height: 50%;
+  background-color: #002868;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* White Circle */
+.circle {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+/* Bottom Red Strip */
+.bottom {
+  height: 25%;
+  background-color: #c8102e;
+}

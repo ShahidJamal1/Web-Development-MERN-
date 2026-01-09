@@ -42,7 +42,7 @@ Currently learning **CSS** and practicing topic-wise.
 
 📂 CSS Folder Structure:
 - `Lec 1`
-- `Lec 2`
+- `Lec 2` update
 - `Lec 3`
 - `Lec 4`
 

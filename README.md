@@ -42,7 +42,7 @@ Currently learning **CSS** and practicing topic-wise.
 
 📂 CSS Folder Structure:
 - `Lec 1`
-- `Lec 2` updated
+- `Lec 2` 
 - `Lec 3`
 - `Lec 4`
 
@@ -114,6 +114,57 @@ They reflect my consistent learning and improvement journey.
 
 
 ---
+
+🔄 CSS Flexbox (Lecture 4 – Learning & Mastering)
+
+Currently learning CSS Flexbox to build responsive and flexible layouts.
+
+✔ Topics Being Practiced:
+
+- display: flex
+
+- Flex container vs Flex items
+
+- flex-direction
+
+- justify-content
+
+- align-items
+
+- align-content
+
+- flex-wrap
+
+- gap
+
+- flex-grow, flex-shrink, flex-basis
+
+- Real-world layout alignment techniques
+
+📂 Location:
+CSS/Lec 4/
+
+📌 What I’m Learning with Flexbox:
+
+- Creating responsive layouts easily
+
+- Centering elements horizontally & vertically
+
+- Building modern UI sections (navbar, cards, sections)
+
+- Writing clean and scalable CSS layouts
+
+🚧 Status: Actively practicing & mastering Flexbox with examples and layout-based exercises.
+
+✅ Outcome So Far
+
+- Strong understanding of HTML & CSS fundamentals
+
+- Hands-on experience with CSS Box Model & Flexbox
+
+- Improved layout-building skills
+
+- Solid foundation for JavaScript & React
 
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:

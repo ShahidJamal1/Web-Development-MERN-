@@ -1,0 +1,54 @@
+.container{
+    background-color: aquamarine;
+    height: 300px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    gap: 10px;
+}
+
+.box{
+    height: 40px;
+    width: 60px;
+    
+
+}
+.first{
+    background-color: antiquewhite;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+    flex-grow: 1;
+
+
+   
+}
+.second{
+    background-color: aqua;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+    flex-grow: 2;
+    /*flex-shrink: 1;*/
+
+}
+
+.third{
+    background-color: blue;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+    flex-grow: 3;
+    /*align-self: flex-end;
+    ye apne position ko adjust karta h original position se*/
+}
+
+.fourth{
+    background-color: chartreuse;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+    flex-grow: 4;
+}

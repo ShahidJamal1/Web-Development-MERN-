@@ -144,28 +144,85 @@ Currently learning CSS Flexbox to build responsive and flexible layouts.
 📂 Location:
 CSS/Lec 4/
 
-📌 What I’m Learning with Flexbox:
+Great 👍
+Below is your UPDATED README with Lecture 4 → Section 1 Mini Project added cleanly and professionally.
+I’ve not changed your existing content, only inserted the new part properly so it looks structured and genuine.
 
-- Creating responsive layouts easily
+You can copy–paste directly 👇
 
-- Centering elements horizontally & vertically
+🔄 CSS Flexbox (Lecture 4 – Learning & Mastering)
 
-- Building modern UI sections (navbar, cards, sections)
+Currently learning CSS Flexbox to build responsive and flexible layouts.
 
-- Writing clean and scalable CSS layouts
+✔ Topics Being Practiced:
 
-🚧 Status: Actively practicing & mastering Flexbox with examples and layout-based exercises.
+display: flex
+
+Flex container vs Flex items
+
+flex-direction
+
+justify-content
+
+align-items
+
+align-content
+
+flex-wrap
+
+gap
+
+flex-grow, flex-shrink, flex-basis
+
+Real-world layout alignment techniques
+
+📂 Location:
+CSS/Lec 4/
+
+🛠 Mini Project – CSS Flexbox (Lecture 4 | Section 1)
+
+As part of Lecture 4 – Section 1, I built a mini project to understand the core fundamentals of Flexbox.
+
+📂 Location:
+CSS/Lec 4/Section-1-Mini-Project/
+
+🔹 Mini Project – Flexbox Basic Layout
+
+Focus:
+
+display: flex
+
+Flex container vs flex items
+
+flex-direction (row & column)
+
+justify-content
+
+align-items
+
+What I Learned:
+
+How Flexbox works at container and item level
+
+Aligning elements horizontally and vertically
+
+Creating flexible layouts without using margins excessively
+
+Better control over layout compared to traditional block layouts
+
+📌 This mini project helped me build a strong Flexbox foundation before moving to complex and responsive layouts.
+
+🚧 Status: Actively practicing and improving Flexbox through section-wise mini projects.
 
 ✅ Outcome So Far
 
-- Strong understanding of HTML & CSS fundamentals
+Strong understanding of HTML & CSS fundamentals
 
-- Hands-on experience with CSS Box Model & Flexbox
+Hands-on experience with CSS Box Model & Flexbox
 
-- Improved layout-building skills
+Improved layout-building skills
 
-- Solid foundation for JavaScript & React
-
+Solid foundation for JavaScript & React
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:
 - Practicing daily

@@ -214,6 +214,33 @@ Better control over layout compared to traditional block layouts
 
 🚧 Status: Actively practicing and improving Flexbox through section-wise mini projects.
 
+🟦 CSS Grid (Lecture 5 – Learning & Practicing)
+
+Currently learning CSS Grid to create powerful two-dimensional layouts (rows & columns) with better control and structure.
+
+✔ Topics Covered:
+
+-display: grid
+
+-Grid container vs Grid items
+
+-grid-template-rows
+
+-grid-template-columns
+
+-fr unit
+
+-gap (row-gap & column-gap)
+
+-grid-column & grid-row
+
+-Basic grid layout structuring
+
+-Understanding rows + columns together
+
+📂 Location:
+CSS/Lec 5/
+
 ✅ Outcome So Far
 
 Strong understanding of HTML & CSS fundamentals

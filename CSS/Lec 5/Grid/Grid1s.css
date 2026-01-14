@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: rgb(49, 14, 247);
+    font-size: 30px;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    /*padding: 10px;*/
+    display: grid;
+   /* grid-template-rows: 200px 200px;
+    grid-template-columns: 200px 200px;*/
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    background-color: aqua;
+    gap: 10px;
+    height: 400px;
+    width: 400px;
+}
+
+.First{
+    background-color: aliceblue;
+}
+.Second{
+    background-color: aquamarine;
+}
+
+.Third{
+    background-color: blanchedalmond;
+}
+
+.Fourth{
+ background-color: rgb(43, 183, 226);
+}

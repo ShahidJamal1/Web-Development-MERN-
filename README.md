@@ -216,7 +216,7 @@ Better control over layout compared to traditional block layouts
 
 🟦 CSS Grid (Lecture 5 – Learning & Practicing)
 
-Currently learning CSS Grid to create powerful two-dimensional layouts (rows & columns) with better control and structure.
+-Currently learning CSS Grid to create powerful two-dimensional layouts (rows & columns) with better control and structure.
 
 ✔ Topics Covered:
 

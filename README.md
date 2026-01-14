@@ -214,42 +214,82 @@ Better control over layout compared to traditional block layouts
 
 🚧 Status: Actively practicing and improving Flexbox through section-wise mini projects.
 
+👇
+
 🟦 CSS Grid (Lecture 5 – Learning & Practicing)
 
--Currently learning CSS Grid to create powerful two-dimensional layouts (rows & columns) with better control and structure.
+Currently learning CSS Grid to create powerful two-dimensional layouts (rows & columns) with better control and structure.
 
 ✔ Topics Covered:
 
--display: grid
+display: grid
 
--Grid container vs Grid items
+Grid container vs Grid items
 
--grid-template-rows
+grid-template-rows
 
--grid-template-columns
+grid-template-columns
 
--fr unit
+fr unit
 
--gap (row-gap & column-gap)
+gap (row-gap & column-gap)
 
--grid-column & grid-row
+grid-column & grid-row
 
--Basic grid layout structuring
+Basic grid layout structuring
 
--Understanding rows + columns together
+Understanding rows + columns together
 
 📂 Location:
 CSS/Lec 5/
 
-✅ Outcome So Far
+🛠 Mini Projects – CSS Grid (Lecture 5)
+
+As part of Lecture 5, I started building section-wise mini projects to understand CSS Grid in a practical way.
+
+📂 Location:
+CSS/Lec 5/
+
+🔹 Project 1 – Basic CSS Grid Layout
+
+📂 Path:
+CSS/Lec 5/project1/
+
+Focus:
+
+Creating a grid container
+
+Defining rows & columns using grid-template-columns
+
+Using fr units
+
+Applying gap for spacing
+
+Placing items inside grid cells
+
+What I Learned:
+
+How CSS Grid works in 2D layouts
+
+Difference between Grid vs Flexbox
+
+Structuring clean layouts using rows & columns
+
+Better layout control compared to traditional CSS methods
+
+📌 This project helped me build a strong foundation in CSS Grid before moving to more complex grid-based designs.
+
+🚧 Status: Actively practicing CSS Grid with more projects coming soon.
+
+✅ Updated Outcome
 
 Strong understanding of HTML & CSS fundamentals
 
-Hands-on experience with CSS Box Model & Flexbox
+Hands-on experience with CSS Box Model, Flexbox & Grid
 
-Improved layout-building skills
+Improved layout-building and UI structuring skills
 
-Solid foundation for JavaScript & React
+Ready to move toward JavaScript & React
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:
 - Practicing daily

@@ -277,9 +277,34 @@ Structuring clean layouts using rows & columns
 
 Better layout control compared to traditional CSS methods
 
-📌 This project helped me build a strong foundation in CSS Grid before moving to more complex grid-based designs.
+🔹 Project 2 – Responsive Grid Layout Practice
 
-🚧 Status: Actively practicing CSS Grid with more projects coming soon.
+📂 Path:
+CSS/Lec 5/project2/
+
+Focus:
+
+Creating multi-column grid layouts
+
+Adjusting layouts using rows & columns
+
+Proper spacing and alignment
+
+Improving layout structure for real-world UIs
+
+What I Learned:
+
+Designing structured and scalable grid layouts
+
+Better control over element positioning
+
+How CSS Grid simplifies complex page layouts
+
+Preparing layouts for responsive design concepts
+
+📌 This project improved my confidence in using CSS Grid for real-world layout designs.
+
+🚧 Status: Actively practicing CSS Grid with more projects and layout variations coming soon.
 
 ✅ Updated Outcome
 
@@ -288,6 +313,8 @@ Strong understanding of HTML & CSS fundamentals
 Hands-on experience with CSS Box Model, Flexbox & Grid
 
 Improved layout-building and UI structuring skills
+
+Solid foundation for JavaScript & React
 
 Ready to move toward JavaScript & React
 ## 🎯 Goal

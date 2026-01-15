@@ -308,7 +308,7 @@ Preparing layouts for responsive design concepts
 
 ✅ Updated Outcome
 
-Strong understanding of HTML & CSS fundamentals
+- Strong understanding of HTML & CSS fundamentals
 
 Hands-on experience with CSS Box Model, Flexbox & Grid
 

@@ -302,21 +302,44 @@ How CSS Grid simplifies complex page layouts
 
 Preparing layouts for responsive design concepts
 
-📌 This project improved my confidence in using CSS Grid for real-world layout designs.
+🔹 Project 3 – Grid + Layout Structuring (Real-World UI)
 
-🚧 Status: Actively practicing CSS Grid with more projects and layout variations coming soon.
+📂 Path:
+CSS/Lec 5/project3/
+
+Focus:
+
+Complex grid layout design
+
+Combining rows & columns effectively
+
+Clean and consistent layout structure
+
+UI alignment using grid lines
+
+What I Learned:
+
+Building real-world page layouts using CSS Grid
+
+Writing clean and maintainable CSS
+
+When and why to use Grid for complex designs
+
+Strengthening overall UI design skills
+
+📌 This project represents my transition from basic Grid usage to real-world layout thinking.
+
+🚧 Status: Actively practicing CSS Grid and experimenting with advanced layouts.
 
 ✅ Updated Outcome
 
-- Strong understanding of HTML & CSS fundamentals
+Strong understanding of HTML & CSS fundamentals
 
 Hands-on experience with CSS Box Model, Flexbox & Grid
 
-Improved layout-building and UI structuring skills
+Ability to build structured, scalable layouts
 
-Solid foundation for JavaScript & React
-
-Ready to move toward JavaScript & React
+Ready to move forward with JavaScript & React
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:
 - Practicing daily

@@ -333,7 +333,7 @@ Strengthening overall UI design skills
 
 ✅ Updated Outcome
 
-Strong understanding of HTML & CSS fundamentals
+- Strong understanding of HTML & CSS fundamentals
 
 Hands-on experience with CSS Box Model, Flexbox & Grid
 

@@ -102,14 +102,56 @@ CSS/Lec 3/
 
 ---
 
-### ✅ Outcome
-- Strong understanding of **CSS Box Model**
-- Hands-on experience with **layout building**
-- Prepared foundation for advanced CSS & JavaScript
+📱 CSS Responsive Design (Lecture 6 – Media Queries & UI Enhancements)
 
-📌 These mini projects are created as part of my daily practice while learning MERN Stack fundamentals.
-They reflect my consistent learning and improvement journey.
+In Lecture 6, I am learning how to make websites responsive and visually improved using modern CSS features.
 
+This lecture focuses on adapting layouts for different screen sizes and enhancing UI appearance.
+
+✔ Topics Covered:
+
+CSS Media Queries
+
+Responsive design principles
+
+min-width & max-width
+
+Mobile, Tablet & Desktop breakpoints
+
+box-shadow
+
+Creating depth and card-style UI components
+
+overflow property
+
+hidden
+
+scroll
+
+auto
+
+visible
+
+Handling content overflow safely
+
+Improving layout stability and visual hierarchy
+
+📂 Location:
+CSS/Lec 6/
+
+🚧 Status: Learning and practicing responsive design concepts and UI enhancement techniques.
+
+✅ Updated Outcome (After Lecture 6)
+
+Better understanding of responsive web design
+
+Ability to adapt layouts across screen sizes
+
+Improved UI styling using shadows
+
+Strong control over layout behavior using overflow
+
+Strengthened foundation before moving to JavaScript & React
 
 
 

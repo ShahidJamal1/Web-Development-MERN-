@@ -333,9 +333,9 @@ Strengthening overall UI design skills
 
 📱 CSS Responsive Design (Lecture 6 – Media Queries & UI Enhancements)
 
-In Lecture 6, I am learning how to make websites responsive and visually improved using modern CSS features.
+- In Lecture 6, I am learning how to make websites responsive and visually improved using modern CSS features.
 
-This lecture focuses on adapting layouts for different screen sizes and enhancing UI appearance.
+- This lecture focuses on adapting layouts for different screen sizes and enhancing UI appearance.
 
 ✔ Topics Covered:
 

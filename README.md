@@ -331,15 +331,56 @@ Strengthening overall UI design skills
 
 🚧 Status: Actively practicing CSS Grid and experimenting with advanced layouts.
 
-✅ Updated Outcome
+📱 CSS Responsive Design (Lecture 6 – Media Queries & UI Enhancements)
 
-- Strong understanding of HTML & CSS fundamentals
+In Lecture 6, I am learning how to make websites responsive and visually improved using modern CSS features.
 
-Hands-on experience with CSS Box Model, Flexbox & Grid
+This lecture focuses on adapting layouts for different screen sizes and enhancing UI appearance.
 
-Ability to build structured, scalable layouts
+✔ Topics Covered:
 
-Ready to move forward with JavaScript & React
+CSS Media Queries
+
+Responsive design principles
+
+min-width & max-width
+
+Mobile, Tablet & Desktop breakpoints
+
+box-shadow
+
+Creating depth and card-style UI components
+
+overflow property
+
+hidden
+
+scroll
+
+auto
+
+visible
+
+Handling content overflow safely
+
+Improving layout stability and visual hierarchy
+
+📂 Location:
+CSS/Lec 6/
+
+🚧 Status: Learning and practicing responsive design concepts and UI enhancement techniques.
+
+✅ Updated Outcome (After Lecture 6)
+
+Better understanding of responsive web design
+
+Ability to adapt layouts across screen sizes
+
+Improved UI styling using shadows
+
+Strong control over layout behavior using overflow
+
+Strengthened foundation before moving to JavaScript & React
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:
 - Practicing daily

@@ -368,19 +368,51 @@ Improving layout stability and visual hierarchy
 📂 Location:
 CSS/Lec 6/
 
-🚧 Status: Learning and practicing responsive design concepts and UI enhancement techniques.
+🛠 Mini Project – CSS (Lecture 6)
+
+As part of Lecture 6, I built a mini project to apply responsive behavior and UI enhancement concepts.
+
+🔹 Project 1 – Responsive Layout Using Media Queries
+
+📂 Path:
+CSS/Lec 6/project1/
+
+Focus:
+
+Writing media queries for different screen sizes
+
+Adapting layout for mobile, tablet, and desktop views
+
+Using box-shadow to enhance UI components
+
+Handling content overflow without breaking layout
+
+What I Learned:
+
+How media queries control layout responsiveness
+
+Designing layouts that work across devices
+
+Applying UI enhancements in real-world layouts
+
+Writing safer and more maintainable responsive CSS
+
+📌 This project helped me strengthen my understanding of responsive design fundamentals.
+
+🚧 Status: Actively practicing responsive layouts and UI enhancements.
 
 ✅ Updated Outcome (After Lecture 6)
 
-Better understanding of responsive web design
+Improved understanding of responsive web design
 
-Ability to adapt layouts across screen sizes
+Hands-on experience with media queries
 
-Improved UI styling using shadows
+Better UI styling using box-shadow
 
 Strong control over layout behavior using overflow
 
-Strengthened foundation before moving to JavaScript & React
+Ready to continue toward JavaScript & React
+
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:
 - Practicing daily

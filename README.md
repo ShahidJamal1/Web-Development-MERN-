@@ -437,9 +437,9 @@ Enhancing UI appearance using shadows
 
 - Hands-on experience with media queries
 
-Better UI styling using box-shadow
+- Better UI styling using box-shadow
 
-Strong control over layout behavior using overflow
+- Strong control over layout behavior using overflow
 
 Ready to continue toward JavaScript & React
 

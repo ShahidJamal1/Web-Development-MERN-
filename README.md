@@ -401,11 +401,39 @@ Writing safer and more maintainable responsive CSS
 
 📌 This project helped me strengthen my understanding of responsive design fundamentals.
 
-🚧 Status: Actively practicing responsive layouts and UI enhancements.
+🔹 Project 2 – Overflow Handling & UI Styling Practice
+
+📂 Path:
+CSS/Lec 6/project2/
+
+Focus:
+
+Practicing different overflow values
+(hidden, scroll, auto, visible)
+
+Controlling overflowing content in containers
+
+Using box-shadow for better visual separation
+
+Preventing layout break issues
+
+What I Learned:
+
+How overflow affects layout behavior
+
+Fixing UI problems caused by excess content
+
+Improving layout safety and stability
+
+Enhancing UI appearance using shadows
+
+📌 This project improved my layout debugging skills and UI styling confidence.
+
+🚧 Status: Actively practicing responsive layouts and UI enhancement techniques.
 
 ✅ Updated Outcome (After Lecture 6)
 
-Improved understanding of responsive web design
+Strong understanding of responsive web design
 
 Hands-on experience with media queries
 

@@ -433,9 +433,9 @@ Enhancing UI appearance using shadows
 
 ✅ Updated Outcome (After Lecture 6)
 
-Strong understanding of responsive web design
+- Strong understanding of responsive web design
 
-Hands-on experience with media queries
+- Hands-on experience with media queries
 
 Better UI styling using box-shadow
 

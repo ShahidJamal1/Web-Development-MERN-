@@ -462,7 +462,7 @@ My goal is to become a **Full Stack MERN Developer** by:
 ## 📌 Status
 - ✅ HTML: Completed  
 - 🔄 CSS: In Progress  
-- ⏳ JavaScript & MERN: Coming Soon  
+- ⏳ JavaScript & MERN: Coming Soon......... 
 
 ---
 

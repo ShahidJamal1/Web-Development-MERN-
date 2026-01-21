@@ -47,6 +47,7 @@ Currently learning **CSS** and practicing topic-wise.
 - `Lec 4`
 - `Lec 5`
 - `Lec 6`
+- `Lec 7`
 
 ---
 

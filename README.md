@@ -464,9 +464,9 @@ transition-property
 
 transition-duration
 
-transition-timing-function
+- transition-timing-function
 
-transition-delay
+- transition-delay
 
 - Hover-based animation effects
 

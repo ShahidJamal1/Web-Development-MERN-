@@ -468,9 +468,9 @@ transition-timing-function
 
 transition-delay
 
-Hover-based animation effects
+- Hover-based animation effects
 
-Improving UI interactions using motion
+- Improving UI interactions using motion
 
 📂 Location:
 CSS/Lec 7/

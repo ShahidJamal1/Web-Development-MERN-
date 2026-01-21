@@ -431,17 +431,60 @@ Enhancing UI appearance using shadows
 
 🚧 Status: Actively practicing responsive layouts and UI enhancement techniques.
 
-✅ Updated Outcome (After Lecture 6)
+🎞 CSS Animations (Lecture 7 – Animations & Transitions)
 
-- Strong understanding of responsive web design
+In Lecture 7, I am learning how to add motion and interactivity to web pages using CSS animations.
 
-- Hands-on experience with media queries
+This lecture focuses on enhancing user experience through smooth visual effects and transitions.
 
-- Better UI styling using box-shadow
+✔ Topics Covered:
 
-- Strong control over layout behavior using overflow
+CSS Animations
 
-Ready to continue toward JavaScript & React
+@keyframes
+
+animation-name
+
+animation-duration
+
+animation-timing-function
+
+animation-delay
+
+animation-iteration-count
+
+animation-direction
+
+animation-fill-mode
+
+CSS Transitions
+
+transition-property
+
+transition-duration
+
+transition-timing-function
+
+transition-delay
+
+Hover-based animation effects
+
+Improving UI interactions using motion
+
+📂 Location:
+CSS/Lec 7/
+
+🚧 Status: Learning and experimenting with CSS animations to create smooth and engaging UI effects.
+
+✅ Updated Outcome (After Lecture 7)
+
+Ability to add animations & transitions to UI elements
+
+Better understanding of motion-based UI design
+
+Improved user experience through visual feedback
+
+Strong foundation in modern CSS before moving to JavaScript
 
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:

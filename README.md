@@ -368,9 +368,6 @@ Handling content overflow safely
 
 Improving layout stability and visual hierarchy
 
-📂 Location:
-CSS/Lec 6/
-
 🛠 Mini Project – CSS (Lecture 6)
 
 As part of Lecture 6, I built a mini project to apply responsive behavior and UI enhancement concepts.

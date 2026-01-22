@@ -485,9 +485,9 @@ CSS/Lec 7/project1/
 
 Focus:
 
-Creating animations using @keyframes
+- Creating animations using @keyframes
 
-Applying animation properties
+- Applying animation properties
 
 Adding smooth hover transitions
 

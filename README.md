@@ -474,18 +474,48 @@ transition-duration
 
 📂 Location:
 CSS/Lec 7/
+🛠 Mini Project – CSS Animations (Lecture 7)
 
-🚧 Status: Learning and experimenting with CSS animations to create smooth and engaging UI effects.
+As part of Lecture 7, I built a mini project to practice animation and transition concepts.
+
+🔹 Mini Project 1 – Basic CSS Animation & Hover Effects
+
+📂 Path:
+CSS/Lec 7/project1/
+
+Focus:
+
+Creating animations using @keyframes
+
+Applying animation properties
+
+Adding smooth hover transitions
+
+Enhancing UI interactivity
+
+What I Learned:
+
+How CSS animations work step-by-step
+
+Difference between animations and transitions
+
+Creating smooth and user-friendly effects
+
+Improving visual feedback in UI components
+
+📌 This mini project helped me gain confidence in using CSS animations effectively.
+
+🚧 Status: Actively experimenting with animations and UI motion effects.
 
 ✅ Updated Outcome (After Lecture 7)
 
-Ability to add animations & transitions to UI elements
+Hands-on experience with CSS animations & transitions
 
-Better understanding of motion-based UI design
+Improved UI interactivity and visual flow
 
-Improved user experience through visual feedback
+Better understanding of motion in web design
 
-Strong foundation in modern CSS before moving to JavaScript
+Ready to apply animations in real-world projects
 
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:

@@ -506,11 +506,11 @@ Improving visual feedback in UI components
 
 ✅ Updated Outcome (After Lecture 7)
 
-Hands-on experience with CSS animations & transitions
+- Hands-on experience with CSS animations & transitions
 
-Improved UI interactivity and visual flow
+- Improved UI interactivity and visual flow
 
-Better understanding of motion in web design
+- Better understanding of motion in web design
 
 Ready to apply animations in real-world projects
 

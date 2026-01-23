@@ -504,15 +504,58 @@ Improving visual feedback in UI components
 
 🚧 Status: Actively experimenting with animations and UI motion effects.
 
-✅ Updated Outcome (After Lecture 7)
+🔄 CSS Transitions & Transforms (Lecture 8)
 
-- Hands-on experience with CSS animations & transitions
+In Lecture 8, I am learning how to create smooth visual effects and element transformations using CSS.
 
-- Improved UI interactivity and visual flow
+This lecture focuses on improving user interaction through transitions and transforming elements in 2D space.
 
-- Better understanding of motion in web design
+✔ Topics Covered:
 
-Ready to apply animations in real-world projects
+🔹 CSS Transitions
+
+transition-property
+
+transition-duration
+
+transition-timing-function
+
+transition-delay
+
+Hover-based transition effects
+
+Smooth UI interactions
+
+🔹 CSS Transforms
+
+transform: translate()
+
+transform: scale()
+
+transform: rotate()
+
+transform: skew()
+
+Combining multiple transform functions
+
+2D transformation techniques
+
+📂 Location:
+CSS/Lec 8/
+
+🚧 Status: Learning and practicing transitions and transforms to build interactive and visually appealing UI components.
+
+✅ Updated Outcome (After Lecture 8)
+
+Strong understanding of CSS transitions
+
+Ability to transform elements using CSS transforms
+
+Improved UI interactivity and animations
+
+Better control over visual effects
+
+Strengthened CSS fundamentals before JavaScript
 
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:

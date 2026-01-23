@@ -514,9 +514,9 @@ This lecture focuses on improving user interaction through transitions and trans
 
 🔹 CSS Transitions
 
-transition-property
+- transition-property
 
-transition-duration
+- transition-duration
 
 transition-timing-function
 

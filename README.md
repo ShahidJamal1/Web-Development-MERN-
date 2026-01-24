@@ -548,7 +548,7 @@ CSS/Lec 8/
 
 ✅ Updated Outcome (After Lecture 8)
 
-Strong understanding of CSS transitions
+- Strong understanding of CSS transitions
 
 Ability to transform elements using CSS transforms
 

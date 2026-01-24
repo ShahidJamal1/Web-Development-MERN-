@@ -552,7 +552,7 @@ CSS/Lec 8/
 
 - Ability to transform elements using CSS transforms
 
-Improved UI interactivity and animations
+- Improved UI interactivity and animations
 
 Better control over visual effects
 

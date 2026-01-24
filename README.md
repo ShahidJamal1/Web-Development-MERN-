@@ -550,7 +550,7 @@ CSS/Lec 8/
 
 - Strong understanding of CSS transitions
 
-Ability to transform elements using CSS transforms
+- Ability to transform elements using CSS transforms
 
 Improved UI interactivity and animations
 

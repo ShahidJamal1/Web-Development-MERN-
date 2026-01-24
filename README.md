@@ -529,7 +529,7 @@ Smooth UI interactions
 
 🔹 CSS Transforms
 
-transform: translate()
+- transform: translate()
 
 transform: scale()
 

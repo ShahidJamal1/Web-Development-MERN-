@@ -581,9 +581,9 @@ Building modern UI interactions using CSS
 
 ✅ Updated Outcome (After Lecture 8)
 
-Hands-on experience with CSS transitions & transforms
+- Hands-on experience with CSS transitions & transforms
 
-Improved UI interactivity and visual effects
+- Improved UI interactivity and visual effects
 
 - Better understanding of animation smoothness
 

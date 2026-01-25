@@ -487,9 +487,9 @@ Focus:
 
 - Applying animation properties
 
-Adding smooth hover transitions
+- Adding smooth hover transitions
 
-Enhancing UI interactivity
+- Enhancing UI interactivity
 
 What I Learned:
 

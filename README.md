@@ -585,9 +585,9 @@ Hands-on experience with CSS transitions & transforms
 
 Improved UI interactivity and visual effects
 
-Better understanding of animation smoothness
+- Better understanding of animation smoothness
 
-Strong CSS foundation before JavaScript
+- Strong CSS foundation before JavaScript
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:
 - Practicing daily

@@ -546,18 +546,48 @@ CSS/Lec 8/
 
 🚧 Status: Learning and practicing transitions and transforms to build interactive and visually appealing UI components.
 
+🛠 Mini Project – CSS Transitions & Transforms (Lecture 8)
+
+As part of Lecture 8, I built a mini project to practice transitions and transform effects.
+
+🔹 Project 1 – Hover Effects Using Transitions & Transforms
+
+📂 Path:
+CSS/Lec 8/project1/
+
+Focus:
+
+Creating smooth hover transitions
+
+Applying transform properties on hover
+
+Enhancing UI elements like buttons and cards
+
+Improving user interaction feedback
+
+What I Learned:
+
+How transitions control animation smoothness
+
+Using transforms to create interactive effects
+
+Writing clean and reusable hover styles
+
+Building modern UI interactions using CSS
+
+📌 This project strengthened my understanding of interactive UI design using CSS.
+
+🚧 Status: Actively practicing transitions and transform-based effects.
+
 ✅ Updated Outcome (After Lecture 8)
 
-- Strong understanding of CSS transitions
+Hands-on experience with CSS transitions & transforms
 
-- Ability to transform elements using CSS transforms
+Improved UI interactivity and visual effects
 
-- Improved UI interactivity and animations
+Better understanding of animation smoothness
 
-Better control over visual effects
-
-Strengthened CSS fundamentals before JavaScript
-
+Strong CSS foundation before JavaScript
 ## 🎯 Goal
 My goal is to become a **Full Stack MERN Developer** by:
 - Practicing daily

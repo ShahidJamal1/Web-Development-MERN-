@@ -571,7 +571,7 @@ How transitions control animation smoothness
 
 Using transforms to create interactive effects
 
-Writing clean and reusable hover styles
+- Writing clean and reusable hover styles
 
 - Building modern UI interactions using CSS
 

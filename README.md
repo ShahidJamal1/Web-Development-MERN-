@@ -573,7 +573,7 @@ Using transforms to create interactive effects
 
 Writing clean and reusable hover styles
 
-Building modern UI interactions using CSS
+- Building modern UI interactions using CSS
 
 📌 This project strengthened my understanding of interactive UI design using CSS.
 

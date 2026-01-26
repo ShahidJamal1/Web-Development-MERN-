@@ -569,7 +569,7 @@ What I Learned:
 
 How transitions control animation smoothness
 
-Using transforms to create interactive effects
+- Using transforms to create interactive effects
 
 - Writing clean and reusable hover styles
 

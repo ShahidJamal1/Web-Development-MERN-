@@ -567,7 +567,7 @@ Improving user interaction feedback
 
 What I Learned:
 
-How transitions control animation smoothness
+- How transitions control animation smoothness
 
 - Using transforms to create interactive effects
 

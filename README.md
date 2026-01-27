@@ -207,11 +207,11 @@ Current Focus:
 
 - Variables & data types
 
-Operators & control statements
+- Operators & control statements
 
-DOM manipulation (upcoming)
+- DOM manipulation (upcoming)
 
-Event handling (upcoming)
+- Event handling (upcoming)
 
 📂 Folder:
 JavaScript/

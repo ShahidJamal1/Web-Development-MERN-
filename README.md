@@ -199,11 +199,11 @@ Project 1: Hover effects using transitions & transforms
 
 🚀 JavaScript (In Progress)
 
-I have now started learning JavaScript to add logic, interactivity, and dynamic behavior to web pages.
+- I have now started learning JavaScript to add logic, interactivity, and dynamic behavior to    web pages.
 
 Current Focus:
 
-JavaScript basics & syntax
+- JavaScript basics & syntax
 
 Variables & data types
 

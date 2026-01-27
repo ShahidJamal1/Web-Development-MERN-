@@ -205,7 +205,7 @@ Current Focus:
 
 - JavaScript basics & syntax
 
-Variables & data types
+- Variables & data types
 
 Operators & control statements
 

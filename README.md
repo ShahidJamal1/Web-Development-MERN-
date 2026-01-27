@@ -232,7 +232,7 @@ VS Code
 
 - Practicing daily
 
-Writing clean & structured code
+- Writing clean & structured code
 
 Building real-world mini projects
 

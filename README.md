@@ -18,9 +18,9 @@ Topics Covered:
 
 - Lists (ordered & unordered)
 
-Tables
+- Tables
 
-Forms & input fields
+- Forms & input fields
 
 Media tags (image, audio, video)
 

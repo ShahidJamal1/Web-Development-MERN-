@@ -12,9 +12,9 @@ I have completed HTML fundamentals and practiced all core concepts required to b
 
 Topics Covered:
 
-HTML boilerplate structure
+- HTML boilerplate structure
 
-Headings & paragraphs
+- Headings & paragraphs
 
 Lists (ordered & unordered)
 

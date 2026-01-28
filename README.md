@@ -226,6 +226,71 @@ JavaScript (In Progress)
 
 VS Code
 
+🧠 JavaScript Basics (Lecture 2 – Variables & Data Types)
+
+In Lecture 2, I learned the fundamentals of JavaScript variables and data types, which are the building blocks of writing logic in web applications.
+
+🔹 Topics Covered
+✅ Variables
+
+var
+
+let
+
+const
+
+Variable declaration & initialization
+
+Scope differences (var vs let vs const)
+
+Best practices for using variables
+
+✅ Data Types
+
+Primitive Data Types
+
+Number
+
+String
+
+Boolean
+
+Undefined
+
+Null
+
+BigInt
+
+Symbol
+
+Non-Primitive Data Types
+
+Object
+
+Array
+
+Function
+
+✅ Other Concepts
+
+typeof operator
+
+Dynamic typing in JavaScript
+
+Difference between null and undefined
+
+📂 Location:
+JavaScript/Lec 2/
+
+✅ Outcome (After Lecture 2)
+
+Clear understanding of how JavaScript stores data
+
+Ability to choose the right variable type
+
+Strong foundation for control statements and DOM manipulation
+
+Improved confidence in JavaScript basics
 🎯 Goal
 
 - My goal is to become a Full Stack MERN Developer by:

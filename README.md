@@ -16,7 +16,7 @@ Topics Covered:
 
 - Headings & paragraphs
 
-Lists (ordered & unordered)
+- Lists (ordered & unordered)
 
 Tables
 

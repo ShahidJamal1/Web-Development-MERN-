@@ -313,6 +313,62 @@ Clear difference between primitive vs reference types
 
 Better debugging skills
 
+🧮 JavaScript Operators (Lecture 4 – Assignment Operators)
+
+In Lecture 4, I learned how to use assignment operators in JavaScript to assign and update values stored in variables efficiently.
+
+Assignment operators are essential for writing clean, readable, and optimized code.
+
+🔹 Topics Covered
+✅ Basic Assignment Operator
+
+= → Assigns a value to a variable
+
+let x = 10;
+
+✅ Compound Assignment Operators
+
+Used to perform operations and assign the result in a shorter way.
+
++= → Addition assignment
+
+-= → Subtraction assignment
+
+*= → Multiplication assignment
+
+/= → Division assignment
+
+%= → Modulus assignment
+
+📌 Example:
+
+let x = 10;
+x += 5;   // x becomes 15
+x *= 2;   // x becomes 30
+
+✅ Why Assignment Operators Matter
+
+Reduce code length
+
+Improve readability
+
+Make updates to variables faster
+
+Follow professional coding practices
+
+📂 Location:
+JavaScript/Lec 4/
+
+✅ Outcome (After Lecture 4)
+
+Clear understanding of assignment operators
+
+Ability to write shorter and cleaner JavaScript code
+
+Stronger foundation for logical operations
+
+Better preparation for control statements and problem-solving
+
 Foundation for advanced topics like closures and execution context
 🙌 Acknowledgement
 

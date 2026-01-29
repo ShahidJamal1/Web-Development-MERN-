@@ -352,9 +352,9 @@ x *= 2;   // x becomes 30
 
 - Improve readability
 
-Make updates to variables faster
+- Make updates to variables faster
 
-Follow professional coding practices
+- Follow professional coding practices
 
 📂 Location:
 JavaScript/Lec 4/

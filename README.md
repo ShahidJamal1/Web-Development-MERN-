@@ -348,9 +348,9 @@ x *= 2;   // x becomes 30
 
 ✅ Why Assignment Operators Matter
 
-Reduce code length
+- Reduce code length
 
-Improve readability
+- Improve readability
 
 Make updates to variables faster
 

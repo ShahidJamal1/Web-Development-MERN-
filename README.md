@@ -240,16 +240,80 @@ Strengthening fundamentals before moving to React & Backend
 
 Following a step-by-step learning approach
 
-📌 Current Status
+⚙️ JavaScript Core Concepts (Lecture 3 – Stack & Heap Memory)
 
-✅ HTML: Completed
+In Lecture 3, I learned how JavaScript manages memory using Stack and Heap, which is essential for understanding how data is stored and accessed during program execution.
 
-✅ CSS: Completed
+🔹 Topics Covered
+✅ Stack Memory
 
-🔄 JavaScript: In Progress
+Used for primitive data types
 
-⏳ React, Node.js & MERN Stack: Coming Soon
+Number
 
+String
+
+Boolean
+
+Null
+
+Undefined
+
+BigInt
+
+Symbol
+
+Key Characteristics:
+
+Stores a copy of the value
+
+Fast access
+
+Fixed memory size
+
+Changes do not affect the original variable
+
+📌 Example: When assigning one primitive variable to another, a copy is created.
+
+✅ Heap Memory
+
+Used for non-primitive (reference) data types
+
+Objects
+
+Arrays
+
+Functions
+
+Key Characteristics:
+
+Stores data as a reference
+
+Multiple variables can point to the same memory
+
+Changes reflect in all references
+
+📌 Example: When copying an object, both variables refer to the same memory location.
+
+✅ Stack vs Heap (Core Difference)
+Stack	Heap
+Stores primitive values	Stores reference values
+Copy is created	Reference is shared
+Faster access	Slightly slower
+Fixed size	Dynamic size
+
+📂 Location:
+JavaScript/Lec 3/
+
+✅ Outcome (After Lecture 3)
+
+Strong understanding of JavaScript memory management
+
+Clear difference between primitive vs reference types
+
+Better debugging skills
+
+Foundation for advanced topics like closures and execution context
 🙌 Acknowledgement
 
 Thanks to online learning platforms, mentors, and developer communities for providing structured guidance and learning resources.

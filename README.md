@@ -412,7 +412,7 @@ JavaScript/Lec 5/
 
 - Ability to write logical conditions
 
-Better preparation for if-else statements and loops
+- Better preparation for if-else statements and loops
 
 Improved coding accuracy using strict comparisons
 🙌 Acknowledgement

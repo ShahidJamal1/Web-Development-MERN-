@@ -359,17 +359,62 @@ x *= 2;   // x becomes 30
 📂 Location:
 JavaScript/Lec 4/
 
-✅ Outcome (After Lecture 4)
+⚖️ JavaScript Operators (Lecture 5 – Comparison Operators)
 
-Clear understanding of assignment operators
+In Lecture 5, I learned how to use comparison operators in JavaScript to compare values and produce boolean results (true or false).
+These operators are fundamental for decision-making and control flow in programming.
 
-Ability to write shorter and cleaner JavaScript code
+🔹 Topics Covered
+✅ Equality Operators
 
-Stronger foundation for logical operations
+== → Equal to (checks value only)
 
-Better preparation for control statements and problem-solving
+=== → Strict equal to (checks value and data type)
 
-Foundation for advanced topics like closures and execution context
+📌 Example:
+
+5 == "5"    // true  
+5 === "5"   // false
+
+✅ Inequality Operators
+
+!= → Not equal (value comparison)
+
+!== → Strict not equal (value + type comparison)
+
+✅ Relational Operators
+
+Used to compare numerical values:
+
+> → Greater than
+
+< → Less than
+
+>= → Greater than or equal to
+
+<= → Less than or equal to
+
+📌 Example:
+
+10 > 5   // true
+7 <= 7   // true
+
+⭐ Best Practice
+
+✅ Prefer using strict operators (=== and !==) because they prevent unexpected type conversions and make code more predictable.
+
+📂 Location:
+JavaScript/Lec 5/
+
+✅ Outcome (After Lecture 5)
+
+Strong understanding of value comparison
+
+Ability to write logical conditions
+
+Better preparation for if-else statements and loops
+
+Improved coding accuracy using strict comparisons
 🙌 Acknowledgement
 
 Thanks to online learning platforms, mentors, and developer communities for providing structured guidance and learning resources.

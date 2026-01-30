@@ -408,9 +408,9 @@ JavaScript/Lec 5/
 
 ✅ Outcome (After Lecture 5)
 
-Strong understanding of value comparison
+- Strong understanding of value comparison
 
-Ability to write logical conditions
+- Ability to write logical conditions
 
 Better preparation for if-else statements and loops
 

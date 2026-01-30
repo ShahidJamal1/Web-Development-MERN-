@@ -414,7 +414,7 @@ JavaScript/Lec 5/
 
 - Better preparation for if-else statements and loops
 
-Improved coding accuracy using strict comparisons
+- Improved coding accuracy using strict comparisons
 🙌 Acknowledgement
 
 Thanks to online learning platforms, mentors, and developer communities for providing structured guidance and learning resources.

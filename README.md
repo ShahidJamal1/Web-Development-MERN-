@@ -54,7 +54,7 @@ I have successfully completed CSS from basics to advanced concepts, focusing on 
 
 - Colors & backgrounds
 
-Box model
+- Box model
 
 Margin, padding & borders
 

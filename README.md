@@ -50,7 +50,7 @@ I have successfully completed CSS from basics to advanced concepts, focusing on 
 
 🎨 CSS Fundamentals
 
-CSS syntax & selectors
+- CSS syntax & selectors
 
 Colors & backgrounds
 

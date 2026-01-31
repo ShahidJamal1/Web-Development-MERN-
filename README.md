@@ -56,7 +56,7 @@ I have successfully completed CSS from basics to advanced concepts, focusing on 
 
 - Box model
 
-Margin, padding & borders
+- Margin, padding & borders
 
 Box-sizing (content-box & border-box)
 

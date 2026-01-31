@@ -52,7 +52,7 @@ I have successfully completed CSS from basics to advanced concepts, focusing on 
 
 - CSS syntax & selectors
 
-Colors & backgrounds
+- Colors & backgrounds
 
 Box model
 

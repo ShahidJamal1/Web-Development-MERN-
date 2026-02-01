@@ -307,9 +307,9 @@ JavaScript/Lec 3/
 
 ✅ Outcome (After Lecture 3)
 
-Strong understanding of JavaScript memory management
+- Strong understanding of JavaScript memory management
 
-Clear difference between primitive vs reference types
+- Clear difference between primitive vs reference types
 
 Better debugging skills
 

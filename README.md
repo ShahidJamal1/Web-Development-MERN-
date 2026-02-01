@@ -311,7 +311,7 @@ JavaScript/Lec 3/
 
 - Clear difference between primitive vs reference types
 
-Better debugging skills
+- Better debugging skills
 
 ➗ JavaScript Operators (Lecture 4 – Arithmetic & Assignment Operators)
 

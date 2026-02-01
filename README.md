@@ -320,7 +320,7 @@ These operators are fundamental for logic building and problem-solving.
 
 🔹 Arithmetic Operators
 
-Used to perform mathematical operations:
+-Used to perform mathematical operations:
 
 + → Addition
 

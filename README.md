@@ -313,51 +313,75 @@ Clear difference between primitive vs reference types
 
 Better debugging skills
 
-🧮 JavaScript Operators (Lecture 4 – Assignment Operators)
+➗ JavaScript Operators (Lecture 4 – Arithmetic & Assignment Operators)
 
-In Lecture 4, I learned how to use assignment operators in JavaScript to assign and update values stored in variables efficiently.
+In Lecture 4, I learned how to perform basic calculations and update variable values using arithmetic and assignment operators in JavaScript.
+These operators are fundamental for logic building and problem-solving.
 
-Assignment operators are essential for writing clean, readable, and optimized code.
+🔹 Arithmetic Operators
 
-🔹 Topics Covered
-✅ Basic Assignment Operator
+Used to perform mathematical operations:
 
-= → Assigns a value to a variable
++ → Addition
 
-let x = 10;
+- → Subtraction
 
-✅ Compound Assignment Operators
+* → Multiplication
 
-Used to perform operations and assign the result in a shorter way.
+/ → Division
 
-+= → Addition assignment
+% → Modulus (remainder)
 
--= → Subtraction assignment
+** → Exponentiation
 
-*= → Multiplication assignment
+++ → Increment
 
-/= → Division assignment
+-- → Decrement
 
-%= → Modulus assignment
+📌 Example:
+
+let a = 10;
+let b = 3;
+
+a + b;  // 13
+a % b;  // 1
+a++;    // 11
+
+🔹 Assignment Operators
+
+Used to assign and update values efficiently:
+
+= → Assign
+
++= → Add and assign
+
+-= → Subtract and assign
+
+*= → Multiply and assign
+
+/= → Divide and assign
+
+%= → Modulus and assign
 
 📌 Example:
 
 let x = 10;
-x += 5;   // x becomes 15
-x *= 2;   // x becomes 30
+x += 5;  // 15
+x *= 2;  // 30
 
-✅ Why Assignment Operators Matter
-
-- Reduce code length
-
-- Improve readability
-
-- Make updates to variables faster
-
-- Follow professional coding practices
 
 📂 Location:
 JavaScript/Lec 4/
+
+✅ Outcome (After Lecture 4)
+
+Strong understanding of mathematical operations
+
+Ability to update variables efficiently
+
+Improved problem-solving skills
+
+Solid foundation for conditions and loops
 
 ⚖️ JavaScript Operators (Lecture 5 – Comparison Operators)
 

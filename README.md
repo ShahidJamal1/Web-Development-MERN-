@@ -234,7 +234,7 @@ VS Code
 
 - Writing clean & structured code
 
-Building real-world mini projects
+- Building real-world mini projects
 
 Strengthening fundamentals before moving to React & Backend
 

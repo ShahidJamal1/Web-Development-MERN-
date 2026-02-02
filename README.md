@@ -228,9 +228,9 @@ VS Code
 
 🎯 Goal
 
-My goal is to become a Full Stack MERN Developer by:
+- My goal is to become a Full Stack MERN Developer by:
 
-Practicing daily
+- Practicing daily
 
 Writing clean & structured code
 

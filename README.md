@@ -313,14 +313,14 @@ JavaScript/Lec 3/
 
 - Better debugging skills
 
-➗ JavaScript Operators (Lecture 4 – Arithmetic & Assignment Operators)
+🧠 JavaScript Operators (Lecture 4 – Arithmetic, Assignment & Logical Operators)
 
-In Lecture 4, I learned how to perform basic calculations and update variable values using arithmetic and assignment operators in JavaScript.
-These operators are fundamental for logic building and problem-solving.
+In Lecture 4, I learned how to perform calculations, update values, and build logical conditions using arithmetic, assignment, and logical operators in JavaScript.
+These operators are essential for decision-making and writing efficient logic.
 
 🔹 Arithmetic Operators
 
--Used to perform mathematical operations:
+Used to perform mathematical operations:
 
 + → Addition
 
@@ -369,19 +369,35 @@ let x = 10;
 x += 5;  // 15
 x *= 2;  // 30
 
+🔹 Logical Operators
+
+Used to combine multiple conditions and return boolean results:
+
+&& → Logical AND
+
+|| → Logical OR
+
+! → Logical NOT
+
+📌 Example:
+
+let age = 20;
+
+age > 18 && age < 30; // true
+
 
 📂 Location:
 JavaScript/Lec 4/
 
 ✅ Outcome (After Lecture 4)
 
-Strong understanding of mathematical operations
+Ability to perform calculations
 
-Ability to update variables efficiently
+Write efficient variable updates
 
-Improved problem-solving skills
+Combine conditions using logical operators
 
-Solid foundation for conditions and loops
+Strong foundation for if-else statements and loops
 
 ⚖️ JavaScript Operators (Lecture 5 – Comparison Operators)
 

@@ -213,8 +213,46 @@ Current Focus:
 
 - Event handling (upcoming)
 
-📂 Folder:
-JavaScript/
+🔹 Conditional Statements
+
+Used to execute code based on conditions.
+
+✅ if Statement
+if (age > 18) {
+  console.log("Adult");
+}
+
+✅ if–else Statement
+if (age >= 18) {
+  console.log("Eligible");
+} else {
+  console.log("Not Eligible");
+}
+
+✅ else–if Ladder
+if (marks > 90) {
+  grade = "A";
+} else if (marks > 75) {
+  grade = "B";
+} else {
+  grade = "C";
+}
+
+
+📌 Learned how conditions return true/false and control program flow.
+
+📂 Location:
+JavaScript/Lec 4/
+
+✅ Outcome (After Lecture 4)
+
+Ability to perform calculations and comparisons
+
+Combine multiple conditions logically
+
+Control program flow using conditional statements
+
+Strong foundation for loops, functions, and DOM logic
 
 🧑‍💻 Tech Stack Used
 

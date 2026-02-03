@@ -213,56 +213,6 @@ Current Focus:
 
 - Event handling (upcoming)
 
-🔹 Conditional Statements
-
-Used to execute code based on conditions.
-
-✅ if Statement
-if (age > 18) {
-  console.log("Adult");
-}
-
-✅ if–else Statement
-if (age >= 18) {
-  console.log("Eligible");
-} else {
-  console.log("Not Eligible");
-}
-
-✅ else–if Ladder
-if (marks > 90) {
-  grade = "A";
-} else if (marks > 75) {
-  grade = "B";
-} else {
-  grade = "C";
-}
-
-
-📌 Learned how conditions return true/false and control program flow.
-
-📂 Location:
-JavaScript/Lec 4/
-
-✅ Outcome (After Lecture 4)
-
-Ability to perform calculations and comparisons
-
-Combine multiple conditions logically
-
-Control program flow using conditional statements
-
-Strong foundation for loops, functions, and DOM logic
-
-🧑‍💻 Tech Stack Used
-
-HTML5
-
-CSS3
-
-JavaScript (In Progress)
-
-VS Code
 
 🎯 Goal
 
@@ -427,19 +377,60 @@ age > 18 && age < 30; // true
 📂 Location:
 JavaScript/Lec 4/
 
+🔹 Conditional Statements
+
+Used to execute code based on conditions.
+
+✅ if Statement
+if (age > 18) {
+  console.log("Adult");
+}
+
+✅ if–else Statement
+if (age >= 18) {
+  console.log("Eligible");
+} else {
+  console.log("Not Eligible");
+}
+
+✅ else–if Ladder
+if (marks > 90) {
+  grade = "A";
+} else if (marks > 75) {
+  grade = "B";
+} else {
+  grade = "C";
+}
+
+
+📌 Learned how conditions return true/false and control program flow.
+
+📂 Location:
+JavaScript/Lec 4/
+
 ✅ Outcome (After Lecture 4)
 
-- Ability to perform calculations
+Ability to perform calculations and comparisons
 
-- Write efficient variable updates
+Combine multiple conditions logically
 
-Combine conditions using logical operators
+Control program flow using conditional statements
 
-Strong foundation for if-else statements and loops
+Strong foundation for loops, functions, and DOM logic
 
-⚖️ JavaScript Operators (Lecture 5 – Comparison Operators)
+🧑‍💻 Tech Stack Used
 
-In Lecture 5, I learned how to use comparison operators in JavaScript to compare values and produce boolean results (true or false).
+HTML5
+
+CSS3
+
+JavaScript (In Progress)
+
+VS Code
+
+⚖️ JavaScript Operators (Lecture 4 – Comparison Operators)
+
+In Lecture 4, I learned how to use comparison operators in JavaScript to compare values and produce boolean results (true or false).
 These operators are fundamental for decision-making and control flow in programming.
 
 🔹 Topics Covered
@@ -482,9 +473,9 @@ Used to compare numerical values:
 ✅ Prefer using strict operators (=== and !==) because they prevent unexpected type conversions and make code more predictable.
 
 📂 Location:
-JavaScript/Lec 5/
+JavaScript/Lec 4/
 
-✅ Outcome (After Lecture 5)
+✅ Outcome (After Lecture 4)
 
 - Strong understanding of value comparison
 

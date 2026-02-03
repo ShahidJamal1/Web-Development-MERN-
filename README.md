@@ -431,7 +431,7 @@ JavaScript/Lec 4/
 
 - Ability to perform calculations
 
-Write efficient variable updates
+- Write efficient variable updates
 
 Combine conditions using logical operators
 

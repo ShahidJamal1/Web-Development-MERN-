@@ -429,7 +429,7 @@ JavaScript/Lec 4/
 
 ✅ Outcome (After Lecture 4)
 
-Ability to perform calculations
+- Ability to perform calculations
 
 Write efficient variable updates
 

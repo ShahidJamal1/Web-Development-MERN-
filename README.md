@@ -432,9 +432,9 @@ Solid foundation for arrays, functions, and DOM manipulation
 
 - CSS3
 
-JavaScript (In Progress)
+- JavaScript (In Progress)
 
-VS Code
+- VS Code
 
 
 🙌 Acknowledgement

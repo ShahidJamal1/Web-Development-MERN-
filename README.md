@@ -301,81 +301,66 @@ JavaScript/Lec 3/
 
 - Better debugging skills
 
-🧠 JavaScript Operators (Lecture 4 – Arithmetic, Assignment & Logical Operators)
+🧠 JavaScript Operators, Conditions & Loops
+(Lecture 4 – Operators, Conditional Statements & Loops)
 
-In Lecture 4, I learned how to perform calculations, update values, and build logical conditions using arithmetic, assignment, and logical operators in JavaScript.
-These operators are essential for decision-making and writing efficient logic.
+In Lecture 4, I learned how to perform calculations, apply logic, make decisions, and repeat tasks using operators, conditional statements, and loops in JavaScript.
+This lecture forms the core foundation of programming logic.
 
 🔹 Arithmetic Operators
 
 Used to perform mathematical operations:
 
-+ → Addition
++ Addition
 
-- → Subtraction
+- Subtraction
 
-* → Multiplication
+* Multiplication
 
-/ → Division
+/ Division
 
-% → Modulus (remainder)
+% Modulus
 
-** → Exponentiation
+** Exponentiation
 
-++ → Increment
+++ Increment
 
--- → Decrement
-
-📌 Example:
+-- Decrement
 
 let a = 10;
 let b = 3;
-
-a + b;  // 13
-a % b;  // 1
-a++;    // 11
+a + b; // 13
 
 🔹 Assignment Operators
 
 Used to assign and update values efficiently:
 
-= → Assign
+=
 
-+= → Add and assign
++=
 
--= → Subtract and assign
+-=
 
-*= → Multiply and assign
+*=
 
-/= → Divide and assign
+/=
 
-%= → Modulus and assign
-
-📌 Example:
+%=
 
 let x = 10;
-x += 5;  // 15
-x *= 2;  // 30
+x += 5; // 15
 
 🔹 Logical Operators
 
-Used to combine multiple conditions and return boolean results:
+Used to combine multiple conditions:
 
-&& → Logical AND
+&& → AND
 
-|| → Logical OR
+|| → OR
 
-! → Logical NOT
+! → NOT
 
-📌 Example:
-
-let age = 20;
-
-age > 18 && age < 30; // true
-
-
-📂 Location:
-JavaScript/Lec 4/
+age > 18 && age < 30;
 
 🔹 Conditional Statements
 
@@ -402,22 +387,44 @@ if (marks > 90) {
   grade = "C";
 }
 
+🔹 Loops
 
-📌 Learned how conditions return true/false and control program flow.
+Used to repeat a block of code multiple times.
+
+✅ for Loop
+for (let i = 1; i <= 5; i++) {
+  console.log(i);
+}
+
+✅ while Loop
+let i = 1;
+while (i <= 5) {
+  console.log(i);
+  i++;
+}
+
+✅ do–while Loop
+let i = 1;
+do {
+  console.log(i);
+  i++;
+} while (i <= 5);
+
+
+📌 Learned when to use each loop based on condition checking.
 
 📂 Location:
 JavaScript/Lec 4/
 
 ✅ Outcome (After Lecture 4)
 
-Ability to perform calculations and comparisons
+Strong understanding of operators and expressions
 
-Combine multiple conditions logically
+Ability to make decisions using conditions
 
-Control program flow using conditional statements
+Ability to repeat tasks using loops
 
-Strong foundation for loops, functions, and DOM logic
-
+Solid foundation for arrays, functions, and DOM manipulation
 🧑‍💻 Tech Stack Used
 
 HTML5

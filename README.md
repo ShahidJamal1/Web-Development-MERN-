@@ -425,6 +425,7 @@ Ability to make decisions using conditions
 Ability to repeat tasks using loops
 
 Solid foundation for arrays, functions, and DOM manipulation
+
 🧑‍💻 Tech Stack Used
 
 HTML5
@@ -435,62 +436,7 @@ JavaScript (In Progress)
 
 VS Code
 
-⚖️ JavaScript Operators (Lecture 4 – Comparison Operators)
 
-In Lecture 4, I learned how to use comparison operators in JavaScript to compare values and produce boolean results (true or false).
-These operators are fundamental for decision-making and control flow in programming.
-
-🔹 Topics Covered
-✅ Equality Operators
-
-== → Equal to (checks value only)
-
-=== → Strict equal to (checks value and data type)
-
-📌 Example:
-
-5 == "5"    // true  
-5 === "5"   // false
-
-✅ Inequality Operators
-
-!= → Not equal (value comparison)
-
-!== → Strict not equal (value + type comparison)
-
-✅ Relational Operators
-
-Used to compare numerical values:
-
-> → Greater than
-
-< → Less than
-
->= → Greater than or equal to
-
-<= → Less than or equal to
-
-📌 Example:
-
-10 > 5   // true
-7 <= 7   // true
-
-⭐ Best Practice
-
-✅ Prefer using strict operators (=== and !==) because they prevent unexpected type conversions and make code more predictable.
-
-📂 Location:
-JavaScript/Lec 4/
-
-✅ Outcome (After Lecture 4)
-
-- Strong understanding of value comparison
-
-- Ability to write logical conditions
-
-- Better preparation for if-else statements and loops
-
-- Improved coding accuracy using strict comparisons
 🙌 Acknowledgement
 
 Thanks to online learning platforms, mentors, and developer communities for providing structured guidance and learning resources.

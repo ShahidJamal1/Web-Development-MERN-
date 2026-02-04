@@ -428,9 +428,9 @@ Solid foundation for arrays, functions, and DOM manipulation
 
 🧑‍💻 Tech Stack Used
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
 JavaScript (In Progress)
 

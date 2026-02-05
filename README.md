@@ -518,9 +518,9 @@ JavaScript/Lec 5/
 
 - Generate random numbers for logic building
 
-Write reusable code using functions
+- Write reusable code using functions
 
-Better preparation for arrays, strings, and real-world logic
+- Better preparation for arrays, strings, and real-world logic
 
 🧑‍💻 Tech Stack Used
 

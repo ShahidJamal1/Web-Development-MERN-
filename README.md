@@ -516,7 +516,7 @@ JavaScript/Lec 5/
 
 - Ability to use Math object methods
 
-Generate random numbers for logic building
+- Generate random numbers for logic building
 
 Write reusable code using functions
 

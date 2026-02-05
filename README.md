@@ -426,6 +426,102 @@ Ability to repeat tasks using loops
 
 Solid foundation for arrays, functions, and DOM manipulation
 
+🔢 JavaScript Built-in Objects & Functions
+(Lecture 5 – Number, Math Object & Random Number Generation)
+
+In Lecture 5, I learned how to work with numbers, built-in Math utilities, and random number generation in JavaScript.
+This lecture focuses on performing calculations, rounding values, and building logic using JavaScript’s built-in functions.
+
+🔹 Number Data Type
+
+Working with numeric values
+
+Integer and floating-point numbers
+
+Type conversion using:
+
+Number()
+
+parseInt()
+
+parseFloat()
+
+📌 Example:
+
+let num = "10.5";
+Number(num);     // 10.5
+parseInt(num);   // 10
+parseFloat(num); // 10.5
+
+🔹 Math Object
+
+Used for performing mathematical operations.
+
+Common Math methods learned:
+
+Math.round()
+
+Math.floor()
+
+Math.ceil()
+
+Math.abs()
+
+Math.sqrt()
+
+Math.pow()
+
+Math.min()
+
+Math.max()
+
+📌 Example:
+
+Math.floor(4.7); // 4
+Math.ceil(4.2);  // 5
+Math.max(10, 20, 5); // 20
+
+🔹 Random Number Generation
+
+Using Math.random()
+
+Generating random numbers within a range
+
+📌 Example:
+
+// Random number between 1 and 10
+Math.floor(Math.random() * 10) + 1;
+
+🔹 Functions (Introduction)
+
+Creating reusable blocks of code
+
+Function declaration and calling
+
+Passing parameters and returning values
+
+📌 Example:
+
+function add(a, b) {
+  return a + b;
+}
+
+
+📂 Location:
+JavaScript/Lec 5/
+
+✅ Outcome (After Lecture 5)
+
+Strong understanding of numeric operations
+
+Ability to use Math object methods
+
+Generate random numbers for logic building
+
+Write reusable code using functions
+
+Better preparation for arrays, strings, and real-world logic
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

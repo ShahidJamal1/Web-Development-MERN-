@@ -512,9 +512,9 @@ JavaScript/Lec 5/
 
 ✅ Outcome (After Lecture 5)
 
-Strong understanding of numeric operations
+- Strong understanding of numeric operations
 
-Ability to use Math object methods
+- Ability to use Math object methods
 
 Generate random numbers for logic building
 

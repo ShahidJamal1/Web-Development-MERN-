@@ -605,7 +605,7 @@ JavaScript/Lec 6/
 
 - Practical knowledge for real-world applications
 
-Improved confidence in using built-in objects
+- Improved confidence in using built-in objects
 
 🧑‍💻 Tech Stack Used
 

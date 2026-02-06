@@ -603,7 +603,7 @@ JavaScript/Lec 6/
 
 - Ability to work with real-time data
 
-Practical knowledge for real-world applications
+- Practical knowledge for real-world applications
 
 Improved confidence in using built-in objects
 

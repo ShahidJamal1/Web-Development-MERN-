@@ -522,6 +522,91 @@ JavaScript/Lec 5/
 
 - Better preparation for arrays, strings, and real-world logic
 
+⏰ JavaScript Date & Time
+(Lecture 6 – Date Object & Real-World Usage)
+
+In Lecture 6, I learned how to work with date and time in JavaScript using the built-in Date object.
+This concept is widely used in real-world applications such as timers, clocks, logs, bookings, and event tracking.
+
+🔹 Date Object Basics
+
+Creating a new date using new Date()
+
+Understanding date and time formats
+
+Working with timestamps
+
+📌 Example:
+
+let currentDate = new Date();
+console.log(currentDate);
+
+🔹 Getting Date & Time Values
+
+getFullYear()
+
+getMonth()
+
+getDate()
+
+getDay()
+
+getHours()
+
+getMinutes()
+
+getSeconds()
+
+getTime()
+
+📌 Example:
+
+let date = new Date();
+date.getFullYear(); // current year
+date.getHours();    // current hour
+
+🔹 Setting Date & Time Values
+
+setFullYear()
+
+setMonth()
+
+setDate()
+
+setHours()
+
+setMinutes()
+
+📌 Example:
+
+let date = new Date();
+date.setFullYear(2026);
+
+🔹 Real-World Use Cases
+
+Displaying current date & time
+
+Digital clocks
+
+Countdown timers
+
+Logging user activity
+
+Scheduling events
+
+📂 Location:
+JavaScript/Lec 6/
+
+✅ Outcome (After Lecture 6)
+
+Strong understanding of JavaScript Date object
+
+Ability to work with real-time data
+
+Practical knowledge for real-world applications
+
+Improved confidence in using built-in objects
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

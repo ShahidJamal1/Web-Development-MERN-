@@ -599,9 +599,9 @@ JavaScript/Lec 6/
 
 ✅ Outcome (After Lecture 6)
 
-Strong understanding of JavaScript Date object
+- Strong understanding of JavaScript Date object
 
-Ability to work with real-time data
+- Ability to work with real-time data
 
 Practical knowledge for real-world applications
 

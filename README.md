@@ -530,7 +530,7 @@ This concept is widely used in real-world applications such as timers, clocks, l
 
 🔹 Date Object Basics
 
-Creating a new date using new Date()
+- Creating a new date using new Date()
 
 Understanding date and time formats
 

@@ -584,7 +584,7 @@ date.setFullYear(2026);
 
 🔹 Real-World Use Cases
 
-Displaying current date & time
+- Displaying current date & time
 
 Digital clocks
 

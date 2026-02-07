@@ -534,7 +534,7 @@ This concept is widely used in real-world applications such as timers, clocks, l
 
 - Understanding date and time formats
 
-Working with timestamps
+- Working with timestamps
 
 📌 Example:
 

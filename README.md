@@ -532,7 +532,7 @@ This concept is widely used in real-world applications such as timers, clocks, l
 
 - Creating a new date using new Date()
 
-Understanding date and time formats
+- Understanding date and time formats
 
 Working with timestamps
 

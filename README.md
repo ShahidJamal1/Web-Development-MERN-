@@ -533,7 +533,7 @@ In Lecture 6, I learned how to work with date & time and string manipulation, bo
 
 - Understanding date and time formats
 
-Working with timestamps
+- Working with timestamps
 
 Common Methods:
 

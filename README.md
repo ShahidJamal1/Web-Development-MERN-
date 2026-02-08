@@ -522,26 +522,20 @@ JavaScript/Lec 5/
 
 - Better preparation for arrays, strings, and real-world logic
 
-⏰ JavaScript Date & Time
-(Lecture 6 – Date Object & Real-World Usage)
+⏰ JavaScript Date, Time & Strings
+(Lecture 6 – Date Object & String Concepts)
 
-In Lecture 6, I learned how to work with date and time in JavaScript using the built-in Date object.
-This concept is widely used in real-world applications such as timers, clocks, logs, bookings, and event tracking.
+In Lecture 6, I learned how to work with date & time and string manipulation, both of which are widely used in real-world JavaScript applications.
 
-🔹 Date Object Basics
+🔹 Date & Time (Date Object)
 
-- Creating a new date using new Date()
+Creating dates using new Date()
 
-- Understanding date and time formats
+Understanding date and time formats
 
-- Working with timestamps
+Working with timestamps
 
-📌 Example:
-
-let currentDate = new Date();
-console.log(currentDate);
-
-🔹 Getting Date & Time Values
+Common Methods:
 
 getFullYear()
 
@@ -559,53 +553,62 @@ getSeconds()
 
 getTime()
 
-📌 Example:
-
 let date = new Date();
-date.getFullYear(); // current year
-date.getHours();    // current hour
+date.getFullYear();
 
-🔹 Setting Date & Time Values
+🔹 String Concepts
 
-setFullYear()
+Creating strings (single quotes, double quotes, template literals)
 
-setMonth()
+String length
 
-setDate()
+Accessing characters
 
-setHours()
+String immutability
 
-setMinutes()
+🔹 String Methods
 
-📌 Example:
+toUpperCase()
 
-let date = new Date();
-date.setFullYear(2026);
+toLowerCase()
 
-🔹 Real-World Use Cases
+trim()
 
-- Displaying current date & time
+slice()
 
-Digital clocks
+substring()
 
-Countdown timers
+replace()
 
-Logging user activity
+includes()
 
-Scheduling events
+concat()
+
+let name = " JavaScript ";
+name.trim().toUpperCase();
+
+🔹 Real-World Usage
+
+Formatting dates
+
+Handling user input
+
+Text processing
+
+UI text updates
 
 📂 Location:
 JavaScript/Lec 6/
 
 ✅ Outcome (After Lecture 6)
 
-- Strong understanding of JavaScript Date object
+Strong understanding of Date & Time handling
 
-- Ability to work with real-time data
+Ability to manipulate and format strings
 
-- Practical knowledge for real-world applications
+Practical skills for real-world applications
 
-- Improved confidence in using built-in objects
+Better preparation for arrays and DOM manipulation
 
 🧑‍💻 Tech Stack Used
 

@@ -529,7 +529,7 @@ In Lecture 6, I learned how to work with date & time and string manipulation, bo
 
 🔹 Date & Time (Date Object)
 
-Creating dates using new Date()
+- Creating dates using new Date()
 
 Understanding date and time formats
 

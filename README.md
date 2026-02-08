@@ -531,7 +531,7 @@ In Lecture 6, I learned how to work with date & time and string manipulation, bo
 
 - Creating dates using new Date()
 
-Understanding date and time formats
+- Understanding date and time formats
 
 Working with timestamps
 

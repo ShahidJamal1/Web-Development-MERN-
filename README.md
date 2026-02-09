@@ -610,6 +610,88 @@ Practical skills for real-world applications
 
 Better preparation for arrays and DOM manipulation
 
+📦 JavaScript Arrays (Lecture 7 – Arrays In Depth)
+
+In Lecture 7, I studied JavaScript arrays in depth, focusing on how to store, access, modify, and manipulate collections of data efficiently.
+Arrays are heavily used in real-world applications, data handling, and problem-solving.
+
+🔹 Array Basics
+
+Creating arrays
+
+Accessing elements using index
+
+Array length
+
+Modifying array elements
+
+Array immutability vs mutability
+
+let fruits = ["Apple", "Banana", "Mango"];
+fruits[1]; // Banana
+
+🔹 Common Array Methods
+
+push() – add element at end
+
+pop() – remove element from end
+
+unshift() – add element at start
+
+shift() – remove element from start
+
+fruits.push("Orange");
+fruits.pop();
+
+🔹 Advanced Array Methods
+
+map()
+
+filter()
+
+reduce()
+
+forEach()
+
+find()
+
+includes()
+
+indexOf()
+
+numbers.map(num => num * 2);
+
+🔹 Looping Through Arrays
+
+for loop
+
+for...of
+
+forEach()
+
+🔹 Real-World Use Cases
+
+Handling user data
+
+Rendering lists in UI
+
+Managing collections (products, users, scores)
+
+Data transformation
+
+📂 Location:
+JavaScript/Lec 7/
+
+✅ Outcome (After Lecture 7)
+
+Deep understanding of array operations
+
+Ability to manipulate and transform data
+
+Improved problem-solving skills
+
+Strong foundation for objects, DOM, and APIs
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

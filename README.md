@@ -673,7 +673,7 @@ forEach()
 
 - Handling user data
 
-Rendering lists in UI
+- Rendering lists in UI
 
 Managing collections (products, users, scores)
 

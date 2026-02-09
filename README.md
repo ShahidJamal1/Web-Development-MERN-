@@ -671,7 +671,7 @@ forEach()
 
 🔹 Real-World Use Cases
 
-Handling user data
+- Handling user data
 
 Rendering lists in UI
 

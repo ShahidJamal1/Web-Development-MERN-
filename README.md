@@ -675,9 +675,9 @@ forEach()
 
 - Rendering lists in UI
 
-Managing collections (products, users, scores)
+- Managing collections (products, users, scores)
 
-Data transformation
+- Data transformation
 
 📂 Location:
 JavaScript/Lec 7/

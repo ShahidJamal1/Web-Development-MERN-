@@ -692,6 +692,93 @@ Improved problem-solving skills
 
 Strong foundation for objects, DOM, and APIs
 
+🧩 JavaScript Objects (Lecture 8 – Objects In Depth)
+
+In Lecture 8, I studied JavaScript objects in depth, learning how to store data in key–value pairs and work with structured, real-world data.
+Objects are fundamental for application state, APIs, and backend development.
+
+🔹 Object Basics
+
+Creating objects using object literals
+
+Key–value pairs
+
+Accessing properties (dot & bracket notation)
+
+Updating and deleting properties
+
+let user = {
+  name: "Shahid",
+  age: 22,
+  role: "Developer"
+};
+
+user.name;        // Shahid
+user["age"];      // 22
+
+🔹 Adding, Updating & Deleting Properties
+user.city = "Delhi";
+user.age = 23;
+delete user.role;
+
+🔹 Object Methods
+
+Functions inside objects
+
+Using this keyword
+
+let person = {
+  name: "Alex",
+  greet: function () {
+    return `Hello, ${this.name}`;
+  }
+};
+
+🔹 Looping Through Objects
+
+for...in loop
+
+Object.keys()
+
+Object.values()
+
+Object.entries()
+
+for (let key in user) {
+  console.log(key, user[key]);
+}
+
+🔹 Object Destructuring
+
+Extracting values from objects
+
+Cleaner and readable code
+
+let { name, age } = user;
+
+🔹 Real-World Use Cases
+
+User profiles
+
+Product data
+
+API responses
+
+Application state management
+
+📂 Location:
+JavaScript/Lec 8/
+
+✅ Outcome (After Lecture 8)
+
+Deep understanding of objects & structured data
+
+Ability to model real-world entities
+
+Better readiness for DOM, APIs, and backend concepts
+
+Strong foundation for React & MERN stack
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

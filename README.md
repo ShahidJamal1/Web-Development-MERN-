@@ -773,7 +773,7 @@ JavaScript/Lec 8/
 
 - Deep understanding of objects & structured data
 
-Ability to model real-world entities
+- Ability to model real-world entities
 
 Better readiness for DOM, APIs, and backend concepts
 

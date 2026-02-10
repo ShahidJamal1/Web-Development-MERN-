@@ -775,7 +775,7 @@ JavaScript/Lec 8/
 
 - Ability to model real-world entities
 
-Better readiness for DOM, APIs, and backend concepts
+- Better readiness for DOM, APIs, and backend concepts
 
 Strong foundation for React & MERN stack
 

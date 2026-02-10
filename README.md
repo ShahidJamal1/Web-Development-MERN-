@@ -771,7 +771,7 @@ JavaScript/Lec 8/
 
 ✅ Outcome (After Lecture 8)
 
-Deep understanding of objects & structured data
+- Deep understanding of objects & structured data
 
 Ability to model real-world entities
 

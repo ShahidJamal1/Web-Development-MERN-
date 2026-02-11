@@ -857,7 +857,7 @@ JavaScript/Lec 9/
 
 - Ability to write reusable and modular code
 
-Clear understanding of scope
+- Clear understanding of scope
 
 Foundation for DOM manipulation & asynchronous JavaScript
 

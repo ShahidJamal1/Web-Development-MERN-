@@ -855,7 +855,7 @@ JavaScript/Lec 9/
 
 - Strong understanding of function structure & execution
 
-Ability to write reusable and modular code
+- Ability to write reusable and modular code
 
 Clear understanding of scope
 

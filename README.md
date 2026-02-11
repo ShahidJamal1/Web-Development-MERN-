@@ -777,7 +777,7 @@ JavaScript/Lec 8/
 
 - Better readiness for DOM, APIs, and backend concepts
 
-Strong foundation for React & MERN stack
+- Strong foundation for React & MERN stack
 
 🔁 JavaScript Functions (Lecture 9 – Functions In Depth)
 

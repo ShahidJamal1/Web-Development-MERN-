@@ -779,6 +779,89 @@ JavaScript/Lec 8/
 
 Strong foundation for React & MERN stack
 
+🔁 JavaScript Functions (Lecture 9 – Functions In Depth)
+
+In Lecture 9, I studied JavaScript functions in depth, understanding how to write reusable, modular, and efficient code.
+Functions are the backbone of JavaScript and essential for building scalable applications.
+
+🔹 Function Basics
+
+Function declaration
+
+Function expression
+
+Calling functions
+
+Parameters & arguments
+
+Return values
+
+function add(a, b) {
+  return a + b;
+}
+
+add(5, 3); // 8
+
+🔹 Function Expression
+const multiply = function(a, b) {
+  return a * b;
+};
+
+🔹 Arrow Functions (ES6)
+
+Shorter syntax
+
+Cleaner code
+
+Implicit return
+
+const subtract = (a, b) => a - b;
+
+🔹 Default Parameters
+function greet(name = "Guest") {
+  return `Hello ${name}`;
+}
+
+🔹 Rest Parameters
+function sum(...numbers) {
+  return numbers.reduce((total, num) => total + num, 0);
+}
+
+🔹 Scope & Execution Context (Introduction)
+
+Local scope
+
+Global scope
+
+Block scope
+
+Function execution flow basics
+
+🔹 Callback Functions (Introduction)
+
+Passing functions as arguments
+
+Used in array methods & asynchronous programming
+
+numbers.forEach(function(num) {
+  console.log(num);
+});
+
+
+📂 Location:
+JavaScript/Lec 9/
+
+✅ Outcome (After Lecture 9)
+
+Strong understanding of function structure & execution
+
+Ability to write reusable and modular code
+
+Clear understanding of scope
+
+Foundation for DOM manipulation & asynchronous JavaScript
+
+Prepared for advanced concepts like closures and callbacks
 🧑‍💻 Tech Stack Used
 
 - HTML5

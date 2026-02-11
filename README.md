@@ -853,7 +853,7 @@ JavaScript/Lec 9/
 
 ✅ Outcome (After Lecture 9)
 
-Strong understanding of function structure & execution
+- Strong understanding of function structure & execution
 
 Ability to write reusable and modular code
 

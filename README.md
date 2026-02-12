@@ -862,7 +862,7 @@ JavaScript/Lec 9/
 
 - Foundation for DOM manipulation & asynchronous JavaScript
 
-Prepared for advanced concepts like closures and callbacks
+- Prepared for advanced concepts like closures and callbacks
 
 🧠 JavaScript Internals
 (Lecture 10 – Closures, Hoisting & Execution Context)

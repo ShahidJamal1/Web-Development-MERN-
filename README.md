@@ -931,7 +931,7 @@ Why Closures Matter:
 
 - Data hiding
 
-Maintaining state
+- Maintaining state
 
 Used in callbacks & asynchronous programming
 

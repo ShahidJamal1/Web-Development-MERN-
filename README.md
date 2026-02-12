@@ -929,7 +929,7 @@ counter(); // 1
 
 Why Closures Matter:
 
-Data hiding
+- Data hiding
 
 Maintaining state
 

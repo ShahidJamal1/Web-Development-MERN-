@@ -692,6 +692,7 @@ Improved problem-solving skills
 
 Strong foundation for objects, DOM, and APIs
 
+
 🧩 JavaScript Objects (Lecture 8 – Objects In Depth)
 
 In Lecture 8, I studied JavaScript objects in depth, learning how to store data in key–value pairs and work with structured, real-world data.
@@ -862,6 +863,95 @@ JavaScript/Lec 9/
 Foundation for DOM manipulation & asynchronous JavaScript
 
 Prepared for advanced concepts like closures and callbacks
+
+🧠 JavaScript Internals
+(Lecture 10 – Closures, Hoisting & Execution Context)
+
+In Lecture 10, I studied core internal concepts of JavaScript that explain how code actually runs behind the scenes.
+Understanding these topics is crucial for writing optimized and bug-free applications.
+
+🔹 Hoisting
+
+Hoisting is JavaScript's default behavior of moving declarations to the top of their scope before execution.
+
+✅ Variable Hoisting
+
+var is hoisted (initialized as undefined)
+
+let and const are hoisted but stay in the Temporal Dead Zone (TDZ)
+
+console.log(a); // undefined
+var a = 5;
+
+✅ Function Hoisting
+
+Function declarations are fully hoisted
+
+Function expressions are not hoisted the same way
+
+🔹 Execution Context
+
+Execution context defines how JavaScript runs code.
+
+Types of Execution Context:
+
+Global Execution Context
+
+Function Execution Context
+
+Eval Execution Context
+
+Phases:
+
+Memory Creation Phase
+
+Execution Phase
+
+📌 Learned how variables and functions are stored in memory before execution.
+
+🔹 Closures
+
+A closure is created when a function remembers variables from its outer scope even after the outer function has finished executing.
+
+function outer() {
+  let count = 0;
+
+  function inner() {
+    count++;
+    console.log(count);
+  }
+
+  return inner;
+}
+
+const counter = outer();
+counter(); // 1
+
+Why Closures Matter:
+
+Data hiding
+
+Maintaining state
+
+Used in callbacks & asynchronous programming
+
+Core concept in React & advanced JS
+
+📂 Location:
+JavaScript/Lec 10/
+
+✅ Outcome (After Lecture 10)
+
+Deep understanding of how JavaScript executes code
+
+Clear concept of hoisting behavior
+
+Strong grasp of execution context phases
+
+Ability to use closures for state management
+
+Advanced foundation for React & asynchronous JavaScript
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

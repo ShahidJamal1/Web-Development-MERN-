@@ -860,7 +860,7 @@ JavaScript/Lec 9/
 
 - Clear understanding of scope
 
-Foundation for DOM manipulation & asynchronous JavaScript
+- Foundation for DOM manipulation & asynchronous JavaScript
 
 Prepared for advanced concepts like closures and callbacks
 

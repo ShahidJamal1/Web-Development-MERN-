@@ -935,14 +935,14 @@ Why Closures Matter:
 
 - Used in callbacks & asynchronous programming
 
-Core concept in React & advanced JS
+- Core concept in React & advanced JS
 
 📂 Location:
 JavaScript/Lec 10/
 
 ✅ Outcome (After Lecture 10)
 
-Deep understanding of how JavaScript executes code
+- Deep understanding of how JavaScript executes code
 
 Clear concept of hoisting behavior
 

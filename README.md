@@ -933,7 +933,7 @@ Why Closures Matter:
 
 - Maintaining state
 
-Used in callbacks & asynchronous programming
+- Used in callbacks & asynchronous programming
 
 Core concept in React & advanced JS
 

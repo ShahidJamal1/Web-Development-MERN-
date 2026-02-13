@@ -1043,7 +1043,7 @@ double(5); // 10
 
 map(), filter(), reduce()
 
-Event handling
+- Event handling
 
 Asynchronous programming
 

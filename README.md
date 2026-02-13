@@ -1045,7 +1045,7 @@ map(), filter(), reduce()
 
 - Event handling
 
-Asynchronous programming
+- Asynchronous programming
 
 📂 Location:
 JavaScript/Lec 11/

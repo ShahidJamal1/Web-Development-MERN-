@@ -1052,7 +1052,7 @@ JavaScript/Lec 11/
 
 ✅ Outcome (After Lecture 11)
 
-Clear understanding of lexical scope
+- Clear understanding of lexical scope
 
 Strong grasp of closures for state management
 

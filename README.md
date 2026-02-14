@@ -1,7 +1,7 @@
 🚀 MERN Stack Web Development Practice
 
 - This repository contains my hands-on practice code while learning Full Stack MERN Web Development.
-I follow structured video lectures and practice side-by-side coding to build strong fundamentals before moving to advanced concepts.
+- I follow structured video lectures and practice side-by-side coding to build strong fundamentals before moving to advanced concepts.
 
 This repo reflects my consistent learning, practical implementation, and gradual improvement in web development.
 

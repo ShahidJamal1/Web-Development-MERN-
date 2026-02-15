@@ -230,7 +230,7 @@ Following a step-by-step learning approach
 
 ⚙️ JavaScript Core Concepts (Lecture 3 – Stack & Heap Memory)
 
-In Lecture 3, I learned how JavaScript manages memory using Stack and Heap, which is essential for understanding how data is stored and accessed during program execution.
+- In Lecture 3, I learned how JavaScript manages memory using Stack and Heap, which is essential for understanding how data is stored and accessed during program execution.
 
 🔹 Topics Covered
 ✅ Stack Memory

@@ -106,7 +106,7 @@ flex-grow, flex-shrink, flex-basis
 📂 CSS/Lec 4/Section-1-Mini-Project/
 
 Outcome:
-Strong understanding of 1D layout systems and flexible alignment techniques.
+- Strong understanding of 1D layout systems and flexible alignment techniques.
 
 🟦 CSS Grid (Lecture 5)
 

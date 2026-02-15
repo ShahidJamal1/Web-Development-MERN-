@@ -135,7 +135,7 @@ Project 2: Structured & scalable grid layout
 Project 3: Real-world grid-based UI design
 
 Outcome:
-Clear understanding of 2D layouts and when to use Grid vs Flexbox.
+- Clear understanding of 2D layouts and when to use Grid vs Flexbox.
 
 📱 Responsive Design & UI Enhancements (Lecture 6)
 

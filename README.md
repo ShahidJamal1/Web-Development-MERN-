@@ -1105,6 +1105,23 @@ Filtering products/users
 
 Conditional data selection
 
+🔹 reduce()
+
+Used to reduce an array to a single value.
+
+const numbers = [1, 2, 3, 4];
+
+const sum = numbers.reduce((acc, curr) => acc + curr, 0);
+// 10
+
+
+📌 Used for:
+
+Calculating totals
+
+Aggregating data
+
+Building complex logic
 🧑‍💻 Tech Stack Used
 
 - HTML5

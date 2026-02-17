@@ -1087,7 +1087,23 @@ UI rendering
 
 Data transformation
 
+🔹 filter()
 
+Used to create a new array with elements that match a condition.
+
+const numbers = [10, 20, 30, 40];
+
+const filtered = numbers.filter(num => num > 20);
+// [30, 40]
+
+
+📌 Used for:
+
+Searching
+
+Filtering products/users
+
+Conditional data selection
 
 🧑‍💻 Tech Stack Used
 

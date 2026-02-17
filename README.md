@@ -1062,6 +1062,33 @@ Improved functional programming skills
 
 Prepared for advanced topics like DOM & Async JavaScript
 
+🔄 Functional Programming in JavaScript
+(Lecture 12 – map(), filter(), reduce() & Set)
+
+In Lecture 12, I learned powerful functional programming concepts using modern JavaScript methods like map(), filter(), reduce(), and Set.
+
+These methods are widely used in data transformation, React applications, and real-world development.
+
+🔹 map()
+
+Used to create a new array by transforming each element of an existing array.
+
+const numbers = [1, 2, 3, 4];
+
+const doubled = numbers.map(num => num * 2);
+// [2, 4, 6, 8]
+
+
+📌 Used for:
+
+Modifying array data
+
+UI rendering
+
+Data transformation
+
+
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -1122,6 +1122,38 @@ Calculating totals
 Aggregating data
 
 Building complex logic
+
+🔹 Set
+
+A Set is a built-in object that stores unique values only.
+
+const nums = [1, 2, 2, 3, 4, 4];
+
+const uniqueNums = new Set(nums);
+// {1, 2, 3, 4}
+
+
+📌 Used for:
+
+Removing duplicates
+
+Ensuring unique data
+
+Efficient lookups
+
+📂 Location:
+JavaScript/Lec 12/
+
+✅ Outcome (After Lecture 12)
+
+Strong understanding of functional programming concepts
+
+Ability to transform and manipulate data efficiently
+
+Improved problem-solving using array methods
+
+Better readiness for React & real-world projects
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

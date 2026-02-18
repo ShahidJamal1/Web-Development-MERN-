@@ -1184,6 +1184,16 @@ document.querySelectorAll()
 
 const heading = document.getElementById("title");
 
+🔹 Changing Content
+
+innerText
+
+textContent
+
+innerHTML
+
+heading.innerText = "Welcome to JavaScript";
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

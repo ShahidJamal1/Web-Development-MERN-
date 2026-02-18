@@ -1170,6 +1170,20 @@ Each HTML element becomes an object
 
 JavaScript can access and modify these objects
 
+🔹 Selecting Elements
+
+document.getElementById()
+
+document.getElementsByClassName()
+
+document.getElementsByTagName()
+
+document.querySelector()
+
+document.querySelectorAll()
+
+const heading = document.getElementById("title");
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

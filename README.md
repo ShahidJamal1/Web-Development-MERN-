@@ -1154,6 +1154,22 @@ Improved problem-solving using array methods
 
 Better readiness for React & real-world projects
 
+🌐 JavaScript DOM Manipulation
+(Lecture 13 – Document Object Model)
+
+In Lecture 13, I learned how to interact with web pages using DOM Manipulation.
+The DOM (Document Object Model) allows JavaScript to dynamically update HTML and CSS.
+
+This is a major step toward building interactive web applications.
+
+🔹 What is DOM?
+
+The DOM represents the HTML document as a tree structure
+
+Each HTML element becomes an object
+
+JavaScript can access and modify these objects
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

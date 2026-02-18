@@ -1194,6 +1194,14 @@ innerHTML
 
 heading.innerText = "Welcome to JavaScript";
 
+🔹 Modifying Styles
+
+.style property
+
+Adding & removing CSS classes
+heading.style.color = "blue";
+heading.classList.add("active");
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

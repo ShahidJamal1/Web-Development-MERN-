@@ -1230,7 +1230,8 @@ button.addEventListener("click", function() {
 JavaScript/Lec 13/
 
 ✅ Outcome (After Lecture 13)
-Ability to dynamically update web pages
+
+- Ability to dynamically update web pages
 
 Strong understanding of DOM structure
 

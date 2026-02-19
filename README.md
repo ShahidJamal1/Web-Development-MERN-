@@ -1215,6 +1215,16 @@ replaceChild()
 const newDiv = document.createElement("div");
 document.body.appendChild(newDiv);
 
+🔹 Event Handling (Introduction)
+
+onclick
+
+addEventListener()
+
+button.addEventListener("click", function() {
+  alert("Button clicked!");
+});
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

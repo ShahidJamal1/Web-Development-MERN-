@@ -1225,6 +1225,21 @@ button.addEventListener("click", function() {
   alert("Button clicked!");
 });
 
+
+📂 Location:
+JavaScript/Lec 13/
+
+✅ Outcome (After Lecture 13)
+Ability to dynamically update web pages
+
+Strong understanding of DOM structure
+
+Basic event handling knowledge
+
+Foundation for building interactive applications
+
+Prepared for real-world front-end development
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

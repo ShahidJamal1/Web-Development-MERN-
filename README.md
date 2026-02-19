@@ -1202,6 +1202,19 @@ Adding & removing CSS classes
 heading.style.color = "blue";
 heading.classList.add("active");
 
+🔹 Creating & Removing Elements
+
+createElement()
+
+appendChild()
+
+remove()
+
+replaceChild()
+
+const newDiv = document.createElement("div");
+document.body.appendChild(newDiv);
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

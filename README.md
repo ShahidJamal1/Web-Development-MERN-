@@ -1275,6 +1275,16 @@ const li = document.createElement("li");
 li.innerText = "New Task";
 list.appendChild(li);
 
+🔹 Read (Displaying Data)
+
+Accessing input values
+
+Rendering array data in the DOM
+
+Looping through elements to display content
+
+const value = input.value;
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

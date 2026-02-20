@@ -1241,6 +1241,14 @@ Foundation for building interactive applications
 
 Prepared for real-world front-end development
 
+🛠 JavaScript CRUD Operations in DOM
+(Lecture 14 – Create, Read, Update, Delete)
+
+In Lecture 14, I learned how to implement CRUD operations using DOM manipulation.
+CRUD (Create, Read, Update, Delete) is the backbone of dynamic web applications like task managers, forms, dashboards, and admin panels.
+
+This lecture helped me combine DOM manipulation + events + arrays + logic into practical applications.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

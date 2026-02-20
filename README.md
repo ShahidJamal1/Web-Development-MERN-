@@ -1263,6 +1263,18 @@ D → Delete
 
 These operations allow users to manage data dynamically on a webpage.
 
+🔹 Create (Adding Elements)
+
+document.createElement()
+
+appendChild()
+
+Adding new items dynamically
+
+const li = document.createElement("li");
+li.innerText = "New Task";
+list.appendChild(li);
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

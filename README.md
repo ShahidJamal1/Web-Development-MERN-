@@ -1249,6 +1249,20 @@ CRUD (Create, Read, Update, Delete) is the backbone of dynamic web applications 
 
 This lecture helped me combine DOM manipulation + events + arrays + logic into practical applications.
 
+🔹 What is CRUD?
+
+CRUD stands for:
+
+C → Create
+
+R → Read
+
+U → Update
+
+D → Delete
+
+These operations allow users to manage data dynamically on a webpage.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

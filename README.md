@@ -1315,6 +1315,21 @@ Real-time UI updates
 
 Clean and structured logic building
 
+📂 Location:
+JavaScript/Lec 14/
+
+✅ Outcome (After Lecture 14)
+
+Ability to build dynamic and interactive applications
+
+Clear understanding of real-world CRUD logic
+
+Strong DOM manipulation skills
+
+Improved problem-solving and UI logic
+
+Ready for mini-projects like Todo App or Task Manager
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

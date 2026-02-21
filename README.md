@@ -1303,6 +1303,18 @@ removeChild()
 
 li.remove();
 
+🔹 Key Concepts Practiced
+
+Event handling with addEventListener()
+
+Dynamic element creation
+
+Working with arrays and DOM together
+
+Real-time UI updates
+
+Clean and structured logic building
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

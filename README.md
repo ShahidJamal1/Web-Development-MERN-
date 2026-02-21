@@ -1295,6 +1295,14 @@ Updating array data
 
 li.innerText = "Updated Task";
 
+🔹 Delete (Removing Elements)
+
+remove()
+
+removeChild()
+
+li.remove();
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

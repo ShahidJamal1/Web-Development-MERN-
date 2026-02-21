@@ -1285,6 +1285,16 @@ Looping through elements to display content
 
 const value = input.value;
 
+🔹 Update (Modifying Data)
+
+Editing existing DOM elements
+
+Changing text using innerText / innerHTML
+
+Updating array data
+
+li.innerText = "Updated Task";
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

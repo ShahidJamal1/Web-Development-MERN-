@@ -1330,6 +1330,29 @@ Improved problem-solving and UI logic
 
 Ready for mini-projects like Todo App or Task Manager
 
+⚡ JavaScript Events
+(Lecture 15 – Event Handling in JS)
+
+In Lecture 15, I learned how to handle events in JavaScript to make web pages interactive and responsive to user actions.
+
+Events allow JavaScript to respond when a user performs actions like clicking, typing, submitting forms, or hovering.
+
+🔹 What is an Event?
+
+An event is an action that occurs in the browser, such as:
+
+Mouse click
+
+Keyboard input
+
+Form submission
+
+Page load
+
+Mouse hover
+
+JavaScript listens for these events and executes specific code in response.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

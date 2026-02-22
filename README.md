@@ -1357,6 +1357,11 @@ JavaScript listens for these events and executes specific code in response.
 ✅ Inline Event
 <button onclick="alert('Clicked')">Click</button>
 
+✅ Using onclick Property
+button.onclick = function () {
+  console.log("Button clicked");
+};
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

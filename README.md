@@ -1362,6 +1362,19 @@ button.onclick = function () {
   console.log("Button clicked");
 };
 
+✅ Using addEventListener() (Best Practice)
+button.addEventListener("click", function () {
+  console.log("Clicked!");
+});
+
+📌 Preferred method because it:
+
+Allows multiple event listeners
+
+Keeps HTML and JS separate
+
+More professional approach
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

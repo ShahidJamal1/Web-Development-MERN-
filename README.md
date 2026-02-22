@@ -1353,6 +1353,10 @@ Mouse hover
 
 JavaScript listens for these events and executes specific code in response.
 
+🔹 Ways to Add Events
+✅ Inline Event
+<button onclick="alert('Clicked')">Click</button>
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -1415,6 +1415,21 @@ How events propagate in the DOM
 
 Understanding parent-child event flow
 
+📂 Location:
+JavaScript/Lec 15/
+
+✅ Outcome (After Lecture 15)
+
+Strong understanding of event handling
+
+Ability to create interactive web applications
+
+Better control over user interactions
+
+Combined knowledge of DOM + Events + Logic
+
+Ready to build complete frontend mini-projects
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

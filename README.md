@@ -1375,6 +1375,24 @@ Keeps HTML and JS separate
 
 More professional approach
 
+🔹 Common Events Learned
+
+click
+
+dblclick
+
+mouseover
+
+mouseout
+
+keydown
+
+keyup
+
+submit
+
+change
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

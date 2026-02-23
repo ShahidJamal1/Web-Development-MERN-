@@ -1409,6 +1409,12 @@ event.type
 
 event.preventDefault()
 
+🔹 Event Bubbling (Introduction)
+
+How events propagate in the DOM
+
+Understanding parent-child event flow
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

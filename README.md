@@ -1393,6 +1393,22 @@ submit
 
 change
 
+🔹 Event Object
+
+Understanding the event object:
+
+button.addEventListener("click", function (event) {
+  console.log(event);
+});
+
+📌 Learned about:
+
+event.target
+
+event.type
+
+event.preventDefault()
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

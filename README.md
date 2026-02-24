@@ -1439,15 +1439,16 @@ The first project is a Random Quote Generator, which dynamically displays a new 
 
 This project helped me combine:
 
-DOM manipulation
+- DOM manipulation
 
-Event handling
+- Event handling
 
-Arrays
+- Arrays
 
-Math object
+- Math object
 
-Random number generation
+- Random number generation
+
 
 🧑‍💻 Tech Stack Used
 

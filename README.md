@@ -1430,6 +1430,11 @@ Combined knowledge of DOM + Events + Logic
 
 Ready to build complete frontend mini-projects
 
+🎯 JavaScript Mini Projects
+(Lecture 16 – Mini Project 1: Random Quote Generator)
+
+In Lecture 16, I started building real-world mini projects to strengthen my JavaScript fundamentals.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

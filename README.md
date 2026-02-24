@@ -1435,6 +1435,8 @@ Ready to build complete frontend mini-projects
 
 In Lecture 16, I started building real-world mini projects to strengthen my JavaScript fundamentals.
 
+The first project is a Random Quote Generator, which dynamically displays a new quote each time a button is clicked.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

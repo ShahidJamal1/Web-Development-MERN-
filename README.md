@@ -1449,6 +1449,8 @@ This project helped me combine:
 
 - Random number generation
 
+  🔹 Mini Project 1 – Random Quote Generator
+
 
 🧑‍💻 Tech Stack Used
 

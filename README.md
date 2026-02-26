@@ -1450,6 +1450,8 @@ This project helped me combine:
 - Random number generation
 
   🔹 Mini Project 1 – Random Quote Generator
+  📂 Location:
+JavaScript/Lec 16/project1-random-quote-generator/
 
 
 🧑‍💻 Tech Stack Used

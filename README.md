@@ -1455,9 +1455,9 @@ JavaScript/Lec 16/project1-random-quote-generator/
 
 🚀 Features
 
-Displays a random quote on button click
+- Displays a random quote on button click
 
-Uses Math.random() for random selection
+- Uses Math.random() for random selection
 
 Updates UI dynamically using DOM
 

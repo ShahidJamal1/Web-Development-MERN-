@@ -1465,6 +1465,20 @@ Clean and simple user interface
 
 Event-driven interaction
 
+🧠 Concepts Used
+
+addEventListener()
+
+Math.random()
+
+Math.floor()
+
+Array handling
+
+DOM content updates (innerText)
+
+Functions
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

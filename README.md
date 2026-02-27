@@ -1482,6 +1482,16 @@ Functions
 const randomIndex = Math.floor(Math.random() * quotes.length);
 quoteElement.innerText = quotes[randomIndex];
 
+🎯 What I Learned
+
+How to combine multiple JavaScript concepts in one project
+
+Handling user interaction effectively
+
+Writing clean and modular code
+
+Building real interactive UI components
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

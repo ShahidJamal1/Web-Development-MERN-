@@ -1479,6 +1479,9 @@ DOM content updates (innerText)
 
 Functions
 
+const randomIndex = Math.floor(Math.random() * quotes.length);
+quoteElement.innerText = quotes[randomIndex];
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -1507,6 +1507,10 @@ Ready to build more interactive projects
 📂 Location:
 JavaScript/Lec 16/project2-love-calculator/
 
+In this project, I built a Love Calculator App that calculates a compatibility percentage based on two user names.
+
+This project helped me practice:
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

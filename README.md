@@ -1502,6 +1502,11 @@ Practical implementation of random number generation
 
 Ready to build more interactive projects
 
+❤️ Mini Project 2 – Love Calculator
+
+📂 Location:
+JavaScript/Lec 16/project2-love-calculator/
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -1511,6 +1511,16 @@ In this project, I built a Love Calculator App that calculates a compatibility p
 
 This project helped me practice:
 
+User input handling
+
+Random number logic
+
+Conditional statements
+
+DOM updates
+
+Event handling
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

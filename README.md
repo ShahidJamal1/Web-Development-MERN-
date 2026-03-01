@@ -1523,9 +1523,9 @@ Event handling
 
 🚀 Features
 
-Takes two names as input
+- Takes two names as input
 
-Generates a random love percentage
+- Generates a random love percentage
 
 Displays dynamic result messages
 

@@ -1531,7 +1531,7 @@ Event handling
 
 - Uses conditions to show different compatibility messages
 
-Interactive and user-friendly UI
+- Interactive and user-friendly UI
 
 🧑‍💻 Tech Stack Used
 

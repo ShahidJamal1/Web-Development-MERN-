@@ -1521,6 +1521,18 @@ DOM updates
 
 Event handling
 
+🚀 Features
+
+Takes two names as input
+
+Generates a random love percentage
+
+Displays dynamic result messages
+
+Uses conditions to show different compatibility messages
+
+Interactive and user-friendly UI
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

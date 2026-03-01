@@ -1527,9 +1527,9 @@ Event handling
 
 - Generates a random love percentage
 
-Displays dynamic result messages
+- Displays dynamic result messages
 
-Uses conditions to show different compatibility messages
+- Uses conditions to show different compatibility messages
 
 Interactive and user-friendly UI
 

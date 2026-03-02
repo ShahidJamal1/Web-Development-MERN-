@@ -1533,6 +1533,20 @@ Event handling
 
 - Interactive and user-friendly UI
 
+  🧠 Concepts Used
+
+addEventListener()
+
+Math.random()
+
+Math.floor()
+
+Conditional statements (if-else)
+
+DOM manipulation (innerText, value)
+
+Functions
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

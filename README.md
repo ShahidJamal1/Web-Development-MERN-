@@ -1539,9 +1539,9 @@ Event handling
 
 - Math.random()
 
-Math.floor()
+- Math.floor()
 
-Conditional statements (if-else)
+- Conditional statements (if-else)
 
 DOM manipulation (innerText, value)
 

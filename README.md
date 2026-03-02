@@ -1547,6 +1547,17 @@ DOM manipulation (innerText, value)
 
 Functions
 
+</> Javascript
+const loveScore = Math.floor(Math.random() * 100) + 1;
+
+if (loveScore > 80) {
+  result.innerText = "Perfect Match ❤️";
+} else if (loveScore > 50) {
+  result.innerText = "Good Compatibility 💕";
+} else {
+  result.innerText = "Needs More Understanding 💔";
+}
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

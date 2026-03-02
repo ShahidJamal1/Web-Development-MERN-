@@ -1535,9 +1535,9 @@ Event handling
 
   🧠 Concepts Used
 
-addEventListener()
+- addEventListener()
 
-Math.random()
+- Math.random()
 
 Math.floor()
 

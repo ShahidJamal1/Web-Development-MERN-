@@ -1576,6 +1576,10 @@ Stronger understanding of events + DOM + logic
 
 Better confidence in building interactive apps
 
+Practical implementation of random number generation
+
+Experience creating real mini web applications
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

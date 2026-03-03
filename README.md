@@ -1558,6 +1558,14 @@ if (loveScore > 80) {
   result.innerText = "Needs More Understanding 💔";
 }
 
+🎯 What I Learned
+
+Handling user input dynamically
+
+Combining logic with UI updates
+
+Writing conditional-based output
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

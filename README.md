@@ -1570,6 +1570,12 @@ Building fun and interactive applications
 
 Improving problem-solving skills
 
+✅ Outcome (After Mini Project 2)
+
+Stronger understanding of events + DOM + logic
+
+Better confidence in building interactive apps
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

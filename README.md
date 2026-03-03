@@ -1566,6 +1566,10 @@ Combining logic with UI updates
 
 Writing conditional-based output
 
+Building fun and interactive applications
+
+Improving problem-solving skills
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

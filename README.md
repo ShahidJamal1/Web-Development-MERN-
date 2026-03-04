@@ -1580,6 +1580,8 @@ Practical implementation of random number generation
 
 Experience creating real mini web applications
 
+🎨 Mini Project 3 – Background Color Changer
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

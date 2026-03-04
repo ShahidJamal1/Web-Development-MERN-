@@ -1586,6 +1586,8 @@ JavaScript/Lec 16/project3-background-color-changer/
 
 In this project, I built a Background Color Changer App that dynamically changes the webpage background color when the user clicks a button.
 
+This project helped me practice DOM manipulation, event handling, and random color generation.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

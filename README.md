@@ -1581,6 +1581,8 @@ Practical implementation of random number generation
 Experience creating real mini web applications
 
 🎨 Mini Project 3 – Background Color Changer
+📂 Location:
+JavaScript/Lec 16/project3-background-color-changer/
 
 🧑‍💻 Tech Stack Used
 

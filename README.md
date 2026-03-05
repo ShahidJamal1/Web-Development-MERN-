@@ -1594,6 +1594,13 @@ Changes background color dynamically
 
 Generates random colors
 
+Button-based interaction
+
+Simple and interactive UI
+
+Real-time visual feedback
+
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

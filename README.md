@@ -1600,6 +1600,11 @@ Simple and interactive UI
 
 Real-time visual feedback
 
+🧠 Concepts Used
+
+addEventListener()
+
+Math.random()
 
 🧑‍💻 Tech Stack Used
 

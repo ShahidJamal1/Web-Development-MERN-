@@ -1606,6 +1606,12 @@ addEventListener()
 
 Math.random()
 
+DOM manipulation
+
+Event handling
+
+Functions
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

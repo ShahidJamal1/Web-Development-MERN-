@@ -1588,6 +1588,12 @@ In this project, I built a Background Color Changer App that dynamically changes
 
 This project helped me practice DOM manipulation, event handling, and random color generation.
 
+🚀 Features
+
+Changes background color dynamically
+
+Generates random colors
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

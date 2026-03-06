@@ -1622,13 +1622,13 @@ button.addEventListener("click", changeColor);
 
 🎯 What I Learned
 
-How to manipulate page styles dynamically
+- How to manipulate page styles dynamically
 
-Generating random values in JavaScript
+- Generating random values in JavaScript
 
-Handling user interaction through events
+- Handling user interaction through events
 
-Writing reusable functions
+- Writing reusable functions
 
 🧑‍💻 Tech Stack Used
 

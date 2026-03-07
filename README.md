@@ -1632,6 +1632,9 @@ button.addEventListener("click", changeColor);
 
   ✅ Outcome (After Mini Project 3)
 
+Improved confidence in DOM manipulation
+
+Better understanding of event-driven programming
 🧑‍💻 Tech Stack Used
 
 - HTML5

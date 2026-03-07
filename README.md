@@ -1630,6 +1630,8 @@ button.addEventListener("click", changeColor);
 
 - Writing reusable functions
 
+  ✅ Outcome (After Mini Project 3)
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

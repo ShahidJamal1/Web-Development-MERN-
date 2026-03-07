@@ -1635,6 +1635,11 @@ button.addEventListener("click", changeColor);
 Improved confidence in DOM manipulation
 
 Better understanding of event-driven programming
+
+Ability to create interactive UI behavior
+
+Practical experience building mini JavaScript applications
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

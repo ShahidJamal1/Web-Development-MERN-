@@ -1642,6 +1642,7 @@ button.addEventListener("click", changeColor);
 
   ⏰ Mini Project 4 – Digital Clock
 📂 Location:
+JavaScript/Lec 16/project4-digital-clock/
 
 🧑‍💻 Tech Stack Used
 

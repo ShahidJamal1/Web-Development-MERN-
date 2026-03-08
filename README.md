@@ -1640,6 +1640,8 @@ button.addEventListener("click", changeColor);
 
 - Practical experience building mini JavaScript applications
 
+  ⏰ Mini Project 4 – Digital Clock
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

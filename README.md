@@ -1646,6 +1646,8 @@ JavaScript/Lec 16/project4-digital-clock/
 
 In this project, I built a Digital Clock that displays the current time and updates every second.
 
+This project helped me practice JavaScript Date object, real-time updates, and DOM manipulation.
+
 
 🧑‍💻 Tech Stack Used
 

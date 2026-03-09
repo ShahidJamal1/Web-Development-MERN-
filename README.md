@@ -1654,6 +1654,12 @@ Displays current hours, minutes, and seconds
 
 Updates time automatically every second
 
+Uses real-time JavaScript logic
+
+Clean and minimal UI
+
+Dynamic DOM updates
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -1644,6 +1644,9 @@ button.addEventListener("click", changeColor);
 📂 Location:
 JavaScript/Lec 16/project4-digital-clock/
 
+In this project, I built a Digital Clock that displays the current time and updates every second.
+
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

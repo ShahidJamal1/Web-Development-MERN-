@@ -1648,6 +1648,11 @@ In this project, I built a Digital Clock that displays the current time and upda
 
 This project helped me practice JavaScript Date object, real-time updates, and DOM manipulation.
 
+🚀 Features
+
+Displays current hours, minutes, and seconds
+
+Updates time automatically every second
 
 🧑‍💻 Tech Stack Used
 

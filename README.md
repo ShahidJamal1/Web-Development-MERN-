@@ -1660,6 +1660,8 @@ Clean and minimal UI
 
 Dynamic DOM updates
 
+🧠 Concepts Used
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

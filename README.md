@@ -1666,6 +1666,10 @@ Date() object
 
 setInterval()
 
+DOM manipulation
+
+Time formatting
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

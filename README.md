@@ -1662,6 +1662,10 @@ Dynamic DOM updates
 
 🧠 Concepts Used
 
+Date() object
+
+setInterval()
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

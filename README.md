@@ -1673,7 +1673,11 @@ Time formatting
 Functions
 
 </> Javascript
-
+function updateClock() {
+  const now = new Date();
+  const time = now.toLocaleTimeString();
+  clockElement.innerText = time;
+}
 
 🧑‍💻 Tech Stack Used
 

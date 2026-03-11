@@ -1671,6 +1671,10 @@ DOM manipulation
 Time formatting
 
 Functions
+
+</> Javascript
+
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

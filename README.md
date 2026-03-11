@@ -5971,9 +5971,9 @@ Date() object
 
 setInterval()
 
-DOM manipulation
+- DOM manipulation
 
-Time formatting
+- Time formatting
 
 Functions
 

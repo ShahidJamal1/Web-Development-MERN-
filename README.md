@@ -5987,6 +5987,9 @@ setInterval(updateClock, 1000);
 
 🎯 What I Learned
 
+Working with real-time data
+
+Using the JavaScript Date object
 🧑‍💻 Tech Stack Used
 
 - HTML5

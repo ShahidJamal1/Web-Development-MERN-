@@ -5990,6 +5990,10 @@ setInterval(updateClock, 1000);
 Working with real-time data
 
 Using the JavaScript Date object
+
+Updating the DOM continuously
+
+Building dynamic UI elements
 🧑‍💻 Tech Stack Used
 
 - HTML5

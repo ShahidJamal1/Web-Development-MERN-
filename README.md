@@ -5985,6 +5985,8 @@ function updateClock() {
 
 setInterval(updateClock, 1000);
 
+🎯 What I Learned
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

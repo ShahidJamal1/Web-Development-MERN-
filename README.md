@@ -5997,6 +5997,10 @@ Building dynamic UI elements
 
 ✅ Outcome (After Mini Project 4)
 
+Strong understanding of real-time JavaScript applications
+
+Improved DOM manipulation skills
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

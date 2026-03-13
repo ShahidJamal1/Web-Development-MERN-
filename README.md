@@ -6001,6 +6001,10 @@ Strong understanding of real-time JavaScript applications
 
 Improved DOM manipulation skills
 
+Better experience with built-in JavaScript objects
+
+Confidence in building practical frontend projects
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -6005,6 +6005,8 @@ Building dynamic UI elements
 
 - Confidence in building practical frontend projects
 
+🏏 Mini Project 5 – IPL Countdown Timer
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

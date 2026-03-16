@@ -6015,6 +6015,7 @@ In this project, I built an IPL Countdown Timer that shows the remaining time un
 The timer updates every second and displays days, hours, minutes, and seconds dynamically.
 
 This project helped me practice Date calculations, timers, and real-time DOM updates.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

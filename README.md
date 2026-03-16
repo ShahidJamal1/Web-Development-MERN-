@@ -6012,6 +6012,7 @@ JavaScript/Lec 16/project5-ipl-countdown-timer/
 
 In this project, I built an IPL Countdown Timer that shows the remaining time until the IPL event starts.
 
+The timer updates every second and displays days, hours, minutes, and seconds dynamically.
 🧑‍💻 Tech Stack Used
 
 - HTML5

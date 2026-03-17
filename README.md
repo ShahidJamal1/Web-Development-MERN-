@@ -6016,7 +6016,7 @@ The timer updates every second and displays days, hours, minutes, and seconds dy
 
 This project helped me practice Date calculations, timers, and real-time DOM updates.
 
-
+🚀 Features
 
 🧑‍💻 Tech Stack Used
 

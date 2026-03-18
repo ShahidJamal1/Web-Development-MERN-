@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&display=swap');
+
+body{
+    margin:0;
+    padding:0;
+    height:100vh;
+    font-family: 'Orbitron', sans-serif;
+    background: linear-gradient(135deg, #061a40, #000814);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    text-align:center;
+    color:white;
+}
+
+.ipl-logo{
+    width:140px;
+    margin-bottom:20px;
+    filter: drop-shadow(0 0 15px #4cc9f0);
+}
+
+h1{
+    font-size:34px;
+    margin-bottom:45px;
+    letter-spacing:3px;
+    color:#eceeef;
+    text-shadow:0 0 15px rgba(76,201,240,0.8);
+}
+
+.countdown-box{
+    background: rgba(3, 24, 52, 0.9);
+    padding:60px 80px;
+    border-radius:20px;
+    border:1px solid rgba(76,201,240,0.6);
+    box-shadow:
+        0 0 30px rgba(76,201,240,0.5),
+        inset 0 0 30px rgba(0,0,0,0.6);
+}
+
+.time{
+    font-size:75px;
+    font-weight:800;
+    color:#ffffff;
+    text-shadow:0 0 20px rgba(76,201,240,0.9);
+    letter-spacing:6px;
+}
+
+.labels{
+    margin-top:20px;
+    display:flex;
+    justify-content:space-between;
+    font-size:14px;
+    letter-spacing:3px;
+    color:#a9def9;
+}
+
+.trophy{
+    width:120px;
+    margin-top:40px;
+    filter: drop-shadow(0 0 20px #4cc9f0);
+}

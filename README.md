@@ -6023,6 +6023,8 @@ Displays countdown to IPL start time
 Updates automatically every second
 
 Shows days, hours, minutes, and seconds
+
+Real-time UI updates
 🧑‍💻 Tech Stack Used
 
 - HTML5

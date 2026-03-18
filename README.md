@@ -6020,6 +6020,8 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 
 Displays countdown to IPL start time
 
+Updates automatically every second
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

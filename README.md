@@ -6018,15 +6018,15 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 
 🚀 Features
 
-Displays countdown to IPL start time
+- Displays countdown to IPL start time
 
-Updates automatically every second
+- Updates automatically every second
 
-Shows days, hours, minutes, and seconds
+- Shows days, hours, minutes, and seconds
 
-Real-time UI updates
+- Real-time UI updates
 
-Clean and responsive interface
+- Clean and responsive interface
 
 🧑‍💻 Tech Stack Used
 

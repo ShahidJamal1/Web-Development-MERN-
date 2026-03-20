@@ -6032,6 +6032,8 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
   
  Date() object
 
+ setInterval()
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

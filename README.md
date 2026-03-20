@@ -6030,9 +6030,9 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 
 🧠 Concepts Used
   
- Date() object
+ - Date() object
 
- setInterval()
+ - setInterval()
 
 🧑‍💻 Tech Stack Used
 

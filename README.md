@@ -6037,6 +6037,8 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
  - Time difference calculations
 
  - DOM manipulation
+
+   Functions
 🧑‍💻 Tech Stack Used
 
 - HTML5

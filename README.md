@@ -6034,6 +6034,8 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 
  - setInterval()
 
+ - Time difference calculations
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

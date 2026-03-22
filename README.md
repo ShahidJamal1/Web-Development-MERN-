@@ -6042,6 +6042,8 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 
 </> JavaScript
 
+const eventDate = new Date("March 22, 2026 19:30:00").getTime();
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

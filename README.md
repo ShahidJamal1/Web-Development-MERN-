@@ -6043,6 +6043,9 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 </> JavaScript
 
 const eventDate = new Date("March 22, 2026 19:30:00").getTime();
+setInterval(function () {
+  const now = new Date().getTime();
+  const distance = eventDate - now;
 
 🧑‍💻 Tech Stack Used
 

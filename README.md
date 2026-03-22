@@ -6046,6 +6046,7 @@ const eventDate = new Date("March 22, 2026 19:30:00").getTime();
 setInterval(function () {
   const now = new Date().getTime();
   const distance = eventDate - now;
+  const days = Math.floor(distance / (1000 * 60 * 60 * 24));
 
 🧑‍💻 Tech Stack Used
 

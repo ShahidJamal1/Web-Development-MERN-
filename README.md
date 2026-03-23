@@ -6051,6 +6051,7 @@ setInterval(function () {
     countdown.innerText = `${days}d ${hours}h`;
     }, 1000);
 
+🎯 What I Learned
 🧑‍💻 Tech Stack Used
 
 - HTML5

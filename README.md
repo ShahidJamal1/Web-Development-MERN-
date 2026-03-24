@@ -6038,7 +6038,7 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 
  - DOM manipulation
 
- -  Functions
+   Functions
 
 </> JavaScript
 

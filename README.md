@@ -6034,7 +6034,7 @@ This project helped me practice Date calculations, timers, and real-time DOM upd
 
  - setInterval()
 
- - Time difference calculations
+   Time difference calculations
 
    DOM manipulation
 

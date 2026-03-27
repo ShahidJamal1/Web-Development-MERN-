@@ -37,7 +37,7 @@ Mini tasks & practice files
 
 - List
 
-Media tag
+- Media tag
 
 Table
 

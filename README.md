@@ -35,7 +35,7 @@ Mini tasks & practice files
 
 - Form
 
-List
+- List
 
 Media tag
 

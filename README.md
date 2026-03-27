@@ -39,7 +39,7 @@ Mini tasks & practice files
 
 - Media tag
 
-Table
+- Table
 
 Mini Task Project
 

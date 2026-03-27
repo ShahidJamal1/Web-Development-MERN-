@@ -33,7 +33,7 @@ Mini tasks & practice files
 
 - Boiler
 
-Form
+- Form
 
 List
 

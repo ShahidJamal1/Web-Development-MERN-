@@ -6063,6 +6063,8 @@ Updating UI dynamically
 Handling time-based JavaScript applications
 
 ✅ Outcome (After Mini Project 5)
+
+Stronger understanding of Date & time manipulation
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -6069,6 +6069,9 @@ Stronger understanding of Date & time manipulation
 Improved experience with real-time JavaScript updates
 
 Better DOM manipulation skills
+
+Confidence in building dynamic frontend projects
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

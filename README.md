@@ -75,7 +75,7 @@ Key Learnings:
 
 - Layout structuring using containers
 
-Spacing and alignment
+- Spacing and alignment
 
 Writing clean and maintainable CSS
 

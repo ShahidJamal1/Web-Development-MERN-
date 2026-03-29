@@ -65,7 +65,7 @@ Box-sizing (content-box & border-box)
 
 📂 CSS/Lec 3/
 
-Project 1: Basic layout design
+- Project 1: Basic layout design
 
 Project 2: Box model & box-sizing
 

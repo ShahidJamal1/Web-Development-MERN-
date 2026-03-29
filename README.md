@@ -73,7 +73,7 @@ Box-sizing (content-box & border-box)
 
 Key Learnings:
 
-Layout structuring using containers
+- Layout structuring using containers
 
 Spacing and alignment
 

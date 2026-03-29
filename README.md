@@ -69,7 +69,7 @@ Box-sizing (content-box & border-box)
 
 - Project 2: Box model & box-sizing
 
-Project 3: Combined HTML + CSS practice
+- Project 3: Combined HTML + CSS practice
 
 Key Learnings:
 

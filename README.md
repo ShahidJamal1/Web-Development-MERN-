@@ -6068,7 +6068,7 @@ Handling time-based JavaScript applications
 
 - Improved experience with real-time JavaScript updates
 
-Better DOM manipulation skills
+- Better DOM manipulation skills
 
 Confidence in building dynamic frontend projects
 

@@ -59,7 +59,7 @@ I have successfully completed CSS from basics to advanced concepts, focusing on 
 
 - Margin, padding & borders
 
-Box-sizing (content-box & border-box)
+- Box-sizing (content-box & border-box)
 
 🛠 CSS Mini Projects (Lecture 3)
 

@@ -6066,7 +6066,7 @@ Handling time-based JavaScript applications
 
 - Stronger understanding of Date & time manipulation
 
-Improved experience with real-time JavaScript updates
+- Improved experience with real-time JavaScript updates
 
 Better DOM manipulation skills
 

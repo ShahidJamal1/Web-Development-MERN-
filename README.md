@@ -6064,13 +6064,14 @@ Handling time-based JavaScript applications
 
 ✅ Outcome (After Mini Project 5)
 
-Stronger understanding of Date & time manipulation
+- Stronger understanding of Date & time manipulation
 
 Improved experience with real-time JavaScript updates
 
 Better DOM manipulation skills
 
 Confidence in building dynamic frontend projects
+
 
 🧑‍💻 Tech Stack Used
 

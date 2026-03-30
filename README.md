@@ -6070,7 +6070,7 @@ Handling time-based JavaScript applications
 
 - Better DOM manipulation skills
 
-Confidence in building dynamic frontend projects
+- Confidence in building dynamic frontend projects
 
 
 🧑‍💻 Tech Stack Used

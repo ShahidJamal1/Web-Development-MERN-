@@ -6073,7 +6073,7 @@ Handling time-based JavaScript applications
 - Confidence in building dynamic frontend projects
 
 💰 Mini Project 6 – Income Tax Generator
-
+📂 Location:
 🧑‍💻 Tech Stack Used
 
 - HTML5

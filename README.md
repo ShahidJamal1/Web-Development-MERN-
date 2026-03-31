@@ -6074,6 +6074,7 @@ Handling time-based JavaScript applications
 
 💰 Mini Project 6 – Income Tax Generator
 📂 Location:
+JavaScript/Lec 16/project6-income-tax-generator/
 🧑‍💻 Tech Stack Used
 
 - HTML5

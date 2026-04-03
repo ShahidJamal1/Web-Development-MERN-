@@ -6079,6 +6079,7 @@ JavaScript/Lec 16/project6-income-tax-generator/
 In this project, I built an Income Tax Calculator that calculates tax based on user input income using predefined tax slabs.
 
 This project helped me practice conditional logic, user input handling, and real-world problem solving.
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

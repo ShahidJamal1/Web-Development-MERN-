@@ -6075,7 +6075,7 @@ Handling time-based JavaScript applications
 💰 Mini Project 6 – Income Tax Generator
 📂 Location:
 JavaScript/Lec 16/project6-income-tax-generator/
-
+In this project, I built an Income Tax Calculator that calculates tax based on user input income using predefined tax slabs.
 
 🧑‍💻 Tech Stack Used
 

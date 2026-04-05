@@ -6080,7 +6080,7 @@ In this project, I built an Income Tax Calculator that calculates tax based on u
 
 This project helped me practice conditional logic, user input handling, and real-world problem solving.
 
-
+🚀 Features
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -9,7 +9,7 @@
 📚 Course Structure & Progress
 ✅ HTML (Completed)
 
-- I have completed HTML fundamentals and practiced all core concepts required to build structured web pages.
+ I have completed HTML fundamentals and practiced all core concepts required to build structured web pages.
 
 Topics Covered:
 

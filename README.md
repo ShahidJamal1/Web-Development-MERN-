@@ -6087,6 +6087,7 @@ Takes user income as input
 Calculates tax based on different slabs
 
 Displays total tax amount
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

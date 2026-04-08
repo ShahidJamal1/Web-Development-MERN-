@@ -6086,7 +6086,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 - Calculates tax based on different slabs
 
-Displays total tax amount
+- Displays total tax amount
 
 🧑‍💻 Tech Stack Used
 

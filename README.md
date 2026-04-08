@@ -6082,7 +6082,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 🚀 Features
 
-Takes user income as input
+- Takes user income as input
 
 Calculates tax based on different slabs
 

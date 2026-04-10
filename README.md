@@ -6089,6 +6089,7 @@ This project helped me practice conditional logic, user input handling, and real
 - Displays total tax amount
 
 - Dynamic UI updates
+ Simple and user-friendly interface 
 🧑‍💻 Tech Stack Used
 
 - HTML5

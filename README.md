@@ -6092,7 +6092,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 - Simple and user-friendly interface
 🧠 Concepts Used
-
+Conditional statements (if-else)
 🧑‍💻 Tech Stack Used
 
 - HTML5

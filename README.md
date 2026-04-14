@@ -6091,7 +6091,7 @@ This project helped me practice conditional logic, user input handling, and real
 - Dynamic UI updates
 
 - Simple and user-friendly interface
-   
+🧠 Concepts Used
 🧑‍💻 Tech Stack Used
 
 - HTML5

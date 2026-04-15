@@ -6097,6 +6097,7 @@ This project helped me practice conditional logic, user input handling, and real
 Conditional statements (if-else)
 
 User input handling
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

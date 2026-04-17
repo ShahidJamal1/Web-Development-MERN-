@@ -6101,6 +6101,7 @@ User input handling
 DOM manipulation
 
 Functions
+
 Arithmetic operations
 🧑‍💻 Tech Stack Used
 

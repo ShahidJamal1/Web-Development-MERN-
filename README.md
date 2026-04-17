@@ -6099,7 +6099,7 @@ Conditional statements (if-else)
 User input handling
 
 DOM manipulation
-
+Functions
 🧑‍💻 Tech Stack Used
 
 - HTML5

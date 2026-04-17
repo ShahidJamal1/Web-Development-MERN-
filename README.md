@@ -6103,6 +6103,7 @@ DOM manipulation
 Functions
 
 Arithmetic operations
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

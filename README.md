@@ -6094,7 +6094,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 🧠 Concepts Used
 
-Conditional statements (if-else)
+- Conditional statements (if-else)
 
 User input handling
 

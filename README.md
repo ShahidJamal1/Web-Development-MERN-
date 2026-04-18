@@ -6102,7 +6102,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 - Functions
 
-Arithmetic operations
+- Arithmetic operations
 
 🧑‍💻 Tech Stack Used
 

@@ -6096,7 +6096,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 - Conditional statements (if-else)
 
-User input handling
+- User input handling
 
 DOM manipulation
 

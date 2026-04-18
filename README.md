@@ -6100,7 +6100,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 - DOM manipulation
 
-Functions
+- Functions
 
 Arithmetic operations
 

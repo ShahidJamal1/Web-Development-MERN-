@@ -6098,7 +6098,7 @@ This project helped me practice conditional logic, user input handling, and real
 
 - User input handling
 
-DOM manipulation
+- DOM manipulation
 
 Functions
 

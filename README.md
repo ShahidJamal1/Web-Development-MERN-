@@ -6103,7 +6103,9 @@ This project helped me practice conditional logic, user input handling, and real
 - Functions
 
 - Arithmetic operations
+
 </> JavaScript
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

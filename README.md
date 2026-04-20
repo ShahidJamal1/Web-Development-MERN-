@@ -6116,6 +6116,8 @@ function calculateTax(income) {
    } else {
     tax = income * 0.3;
   }
+    return tax;
+}
 🧑‍💻 Tech Stack Used
 
 - HTML5

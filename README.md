@@ -6105,6 +6105,8 @@ This project helped me practice conditional logic, user input handling, and real
 - Arithmetic operations
 
 </> JavaScript
+function calculateTax(income) {
+  let tax = 0;
 
 🧑‍💻 Tech Stack Used
 

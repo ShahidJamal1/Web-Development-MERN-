@@ -6111,6 +6111,8 @@ function calculateTax(income) {
      tax = 0;
   } else if (income <= 500000) {
     tax = income * 0.05;
+  } else if (income <= 1000000) {
+    tax = income * 0.2;
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -6107,7 +6107,8 @@ This project helped me practice conditional logic, user input handling, and real
 </> JavaScript
 function calculateTax(income) {
   let tax = 0;
-
+  if (income <= 250000) {
+     tax = 0;
 🧑‍💻 Tech Stack Used
 
 - HTML5

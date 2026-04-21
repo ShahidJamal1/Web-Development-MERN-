@@ -6118,6 +6118,7 @@ function calculateTax(income) {
   }
     return tax;
 }
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

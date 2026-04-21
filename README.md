@@ -6120,7 +6120,7 @@ function calculateTax(income) {
 }
 
 🎯 What I Learned
-
+Applying real-world logic in JavaScript
 🧑‍💻 Tech Stack Used
 
 - HTML5

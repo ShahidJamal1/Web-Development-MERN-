@@ -11,7 +11,7 @@
 
  - I have completed HTML fundamentals and practiced all core concepts required to build structured web pages.
 
-Topics Covered:
+- Topics Covered:
 
 - HTML boilerplate structure
 

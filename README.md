@@ -6054,7 +6054,7 @@ setInterval(function () {
 
 🎯 What I Learned
 
-Working with time calculations
+- Working with time calculations
 
 Creating real-time countdown logic
 

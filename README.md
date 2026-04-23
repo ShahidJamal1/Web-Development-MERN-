@@ -6121,7 +6121,7 @@ function calculateTax(income) {
 
 🎯 What I Learned
 
-Applying real-world logic in JavaScript
+- Applying real-world logic in JavaScript
 
 Using multiple conditions effectively
 

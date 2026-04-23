@@ -6124,6 +6124,7 @@ function calculateTax(income) {
 Applying real-world logic in JavaScript
 
 Using multiple conditions effectively
+Handling user input dynamically
 🧑‍💻 Tech Stack Used
 
 - HTML5

@@ -85,7 +85,7 @@ Writing clean and maintainable CSS
 
 Topics Covered:
 
-display: flex
+- display: flex
 
 Flex container vs flex items
 

@@ -6125,7 +6125,7 @@ function calculateTax(income) {
 
 - Using multiple conditions effectively
 
-Handling user input dynamically
+- Handling user input dynamically
 
 Building practical utility-based applications
 

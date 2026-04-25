@@ -89,7 +89,7 @@ Topics Covered:
 
 - Flex container vs flex items
 
-flex-direction
+- flex-direction
 
 justify-content
 

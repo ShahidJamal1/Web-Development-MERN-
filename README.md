@@ -87,7 +87,7 @@ Topics Covered:
 
 - display: flex
 
-Flex container vs flex items
+- Flex container vs flex items
 
 flex-direction
 

@@ -91,7 +91,7 @@ Topics Covered:
 
 - flex-direction
 
-justify-content
+- justify-content
 
 align-items
 

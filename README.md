@@ -6127,7 +6127,7 @@ function calculateTax(income) {
 
 - Handling user input dynamically
 
-Building practical utility-based applications
+- Building practical utility-based applications
 
 🧑‍💻 Tech Stack Used
 

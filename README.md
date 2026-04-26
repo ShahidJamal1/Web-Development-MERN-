@@ -6130,6 +6130,7 @@ function calculateTax(income) {
 - Building practical utility-based applications
 
 ✅ Outcome (After Mini Project 6)
+
 Strong understanding of conditional logic
 🧑‍💻 Tech Stack Used
 

@@ -6129,6 +6129,8 @@ function calculateTax(income) {
 
 - Building practical utility-based applications
 
+  ✅ Outcome (After Mini Project 6)
+
 🧑‍💻 Tech Stack Used
 
 - HTML5

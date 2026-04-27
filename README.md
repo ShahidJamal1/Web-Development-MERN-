@@ -6134,6 +6134,7 @@ function calculateTax(income) {
 Strong understanding of conditional logic
 
 Improved problem-solving skills
+Ability to build real-world applications
 🧑‍💻 Tech Stack Used
 
 - HTML5

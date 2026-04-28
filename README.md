@@ -6131,7 +6131,7 @@ function calculateTax(income) {
 
 ✅ Outcome (After Mini Project 6)
 
-Strong understanding of conditional logic
+- Strong understanding of conditional logic
 
 Improved problem-solving skills
 

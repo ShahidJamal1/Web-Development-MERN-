@@ -93,7 +93,7 @@ Topics Covered:
 
 - justify-content
 
-align-items
+- align-items
 
 align-content
 

@@ -6137,7 +6137,7 @@ function calculateTax(income) {
 
 - Ability to build real-world applications
 
-Better confidence in combining logic + UI
+- Better confidence in combining logic + UI
 
 🧑‍💻 Tech Stack Used
 

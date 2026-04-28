@@ -6135,7 +6135,7 @@ function calculateTax(income) {
 
 - Improved problem-solving skills
 
-Ability to build real-world applications
+- Ability to build real-world applications
 
 Better confidence in combining logic + UI
 

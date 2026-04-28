@@ -6133,7 +6133,7 @@ function calculateTax(income) {
 
 - Strong understanding of conditional logic
 
-Improved problem-solving skills
+- Improved problem-solving skills
 
 Ability to build real-world applications
 

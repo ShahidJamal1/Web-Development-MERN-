@@ -1427,7 +1427,7 @@ JavaScript/Lec 15/
 
 - Better control over user interactions
 
-Combined knowledge of DOM + Events + Logic
+- Combined knowledge of DOM + Events + Logic
 
 Ready to build complete frontend mini-projects
 

@@ -1423,7 +1423,7 @@ JavaScript/Lec 15/
 
 - Strong understanding of event handling
 
-Ability to create interactive web applications
+- Ability to create interactive web applications
 
 Better control over user interactions
 

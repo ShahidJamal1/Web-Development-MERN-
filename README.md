@@ -1421,7 +1421,7 @@ JavaScript/Lec 15/
 
 ✅ Outcome (After Lecture 15)
 
-Strong understanding of event handling
+- Strong understanding of event handling
 
 Ability to create interactive web applications
 

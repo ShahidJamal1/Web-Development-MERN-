@@ -1425,7 +1425,7 @@ JavaScript/Lec 15/
 
 - Ability to create interactive web applications
 
-Better control over user interactions
+- Better control over user interactions
 
 Combined knowledge of DOM + Events + Logic
 

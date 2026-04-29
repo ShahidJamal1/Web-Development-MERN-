@@ -1429,7 +1429,7 @@ JavaScript/Lec 15/
 
 - Combined knowledge of DOM + Events + Logic
 
-Ready to build complete frontend mini-projects
+- Ready to build complete frontend mini-projects
 
 🎯 JavaScript Mini Projects
 (Lecture 16 – Mini Project 1: Random Quote Generator)

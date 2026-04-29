@@ -1412,7 +1412,7 @@ event.preventDefault()
 
 🔹 Event Bubbling (Introduction)
 
-How events propagate in the DOM
+- How events propagate in the DOM
 
 Understanding parent-child event flow
 

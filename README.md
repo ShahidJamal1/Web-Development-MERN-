@@ -1655,7 +1655,7 @@ This project helped me practice JavaScript Date object, real-time updates, and D
 
 - Updates time automatically every second
 
-Uses real-time JavaScript logic
+- Uses real-time JavaScript logic
 
 Clean and minimal UI
 

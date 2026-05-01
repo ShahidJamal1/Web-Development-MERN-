@@ -1653,7 +1653,7 @@ This project helped me practice JavaScript Date object, real-time updates, and D
 
 - Displays current hours, minutes, and seconds
 
-Updates time automatically every second
+- Updates time automatically every second
 
 Uses real-time JavaScript logic
 

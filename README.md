@@ -1657,7 +1657,7 @@ This project helped me practice JavaScript Date object, real-time updates, and D
 
 - Uses real-time JavaScript logic
 
-Clean and minimal UI
+- Clean and minimal UI
 
 Dynamic DOM updates
 

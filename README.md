@@ -1659,7 +1659,7 @@ This project helped me practice JavaScript Date object, real-time updates, and D
 
 - Clean and minimal UI
 
-Dynamic DOM updates
+- Dynamic DOM updates
 
 🧠 Concepts Used
 

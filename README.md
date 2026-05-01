@@ -95,7 +95,7 @@ Topics Covered:
 
 - align-items
 
-align-content
+- align-content
 
 flex-wrap
 

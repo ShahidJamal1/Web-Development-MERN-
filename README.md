@@ -1651,7 +1651,7 @@ This project helped me practice JavaScript Date object, real-time updates, and D
 
 🚀 Features
 
-Displays current hours, minutes, and seconds
+- Displays current hours, minutes, and seconds
 
 Updates time automatically every second
 

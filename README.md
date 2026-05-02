@@ -123,7 +123,7 @@ Topics Covered:
 
 - fr unit
 
-gap
+- gap
 
 grid-row & grid-column
 

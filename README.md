@@ -117,7 +117,7 @@ Topics Covered:
 
 - display: grid
 
-Grid rows & columns
+- Grid rows & columns
 
 grid-template-rows & grid-template-columns
 

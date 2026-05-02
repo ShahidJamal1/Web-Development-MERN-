@@ -121,7 +121,7 @@ Topics Covered:
 
 - grid-template-rows & grid-template-columns
 
-fr unit
+- fr unit
 
 gap
 

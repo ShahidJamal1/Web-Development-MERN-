@@ -125,7 +125,7 @@ Topics Covered:
 
 - gap
 
-grid-row & grid-column
+- grid-row & grid-column
 
 🛠 Mini Projects:
 

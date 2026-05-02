@@ -119,7 +119,7 @@ Topics Covered:
 
 - Grid rows & columns
 
-grid-template-rows & grid-template-columns
+- grid-template-rows & grid-template-columns
 
 fr unit
 

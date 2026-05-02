@@ -115,7 +115,7 @@ Outcome:
 
 Topics Covered:
 
-display: grid
+- display: grid
 
 Grid rows & columns
 

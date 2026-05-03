@@ -146,7 +146,7 @@ Topics Covered:
 
 - CSS media queries
 
-Mobile, tablet & desktop breakpoints
+- Mobile, tablet & desktop breakpoints
 
 min-width & max-width
 

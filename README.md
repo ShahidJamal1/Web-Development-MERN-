@@ -148,7 +148,7 @@ Topics Covered:
 
 - Mobile, tablet & desktop breakpoints
 
-min-width & max-width
+- min-width & max-width
 
 box-shadow
 

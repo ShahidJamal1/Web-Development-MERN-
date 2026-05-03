@@ -150,7 +150,7 @@ Topics Covered:
 
 - min-width & max-width
 
-box-shadow
+- box-shadow
 
 overflow (hidden, scroll, auto, visible)
 

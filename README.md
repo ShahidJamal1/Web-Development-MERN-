@@ -144,7 +144,7 @@ Outcome:
 
 Topics Covered:
 
-CSS media queries
+- CSS media queries
 
 Mobile, tablet & desktop breakpoints
 

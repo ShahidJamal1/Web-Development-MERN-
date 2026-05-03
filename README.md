@@ -152,7 +152,7 @@ Topics Covered:
 
 - box-shadow
 
-overflow (hidden, scroll, auto, visible)
+-overflow (hidden, scroll, auto, visible)
 
 🛠 Mini Projects:
 

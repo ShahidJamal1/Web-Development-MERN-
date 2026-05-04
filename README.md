@@ -97,7 +97,7 @@ Topics Covered:
 
 - align-content
 
-flex-wrap
+- flex-wrap
 
 gap
 

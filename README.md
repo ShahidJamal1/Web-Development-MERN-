@@ -166,7 +166,7 @@ Project 2: Overflow handling & UI styling
 
 Topics Covered:
 
-CSS animations
+- CSS animations
 
 @keyframes
 

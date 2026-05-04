@@ -174,7 +174,7 @@ Topics Covered:
 
 - CSS transitions
 
-Hover-based animation effects
+- Hover-based animation effects
 
 🛠 Mini Project:
 

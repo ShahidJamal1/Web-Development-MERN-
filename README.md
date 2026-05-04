@@ -168,7 +168,7 @@ Topics Covered:
 
 - CSS animations
 
-@keyframes
+- @keyframes
 
 Animation properties
 

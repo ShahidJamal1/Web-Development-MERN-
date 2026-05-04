@@ -172,7 +172,7 @@ Topics Covered:
 
 - Animation properties
 
-CSS transitions
+- CSS transitions
 
 Hover-based animation effects
 

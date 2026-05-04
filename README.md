@@ -170,7 +170,7 @@ Topics Covered:
 
 - @keyframes
 
-Animation properties
+- Animation properties
 
 CSS transitions
 

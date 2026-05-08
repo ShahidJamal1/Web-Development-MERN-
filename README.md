@@ -192,7 +192,7 @@ Topics Covered:
 
 - Smooth hover interactions
 
-2D transformations
+- 2D transformations
 
 🛠 Mini Project:
 

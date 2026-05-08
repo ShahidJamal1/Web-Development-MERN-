@@ -227,7 +227,7 @@ Current Focus:
 
 - Strengthening fundamentals before moving to React & Backend
 
-Following a step-by-step learning approach
+- Following a step-by-step learning approach
 
 ⚙️ JavaScript Core Concepts (Lecture 3 – Stack & Heap Memory)
 

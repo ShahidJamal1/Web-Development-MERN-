@@ -186,7 +186,7 @@ Project 1: Basic animations & hover effects
 
 Topics Covered:
 
-CSS transitions
+= CSS transitions
 
 CSS transforms (translate, scale, rotate, skew)
 

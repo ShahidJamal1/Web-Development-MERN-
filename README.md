@@ -190,7 +190,7 @@ Topics Covered:
 
 - CSS transforms (translate, scale, rotate, skew)
 
-Smooth hover interactions
+- Smooth hover interactions
 
 2D transformations
 

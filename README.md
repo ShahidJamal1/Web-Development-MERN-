@@ -225,7 +225,7 @@ Current Focus:
 
 - Building real-world mini projects
 
-Strengthening fundamentals before moving to React & Backend
+- Strengthening fundamentals before moving to React & Backend
 
 Following a step-by-step learning approach
 

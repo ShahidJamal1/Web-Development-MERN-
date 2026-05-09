@@ -236,7 +236,7 @@ Current Focus:
 🔹 Topics Covered
 ✅ Stack Memory
 
-Used for primitive data types
+- Used for primitive data types
 
 Number
 

@@ -240,7 +240,7 @@ Current Focus:
 
 - Number
 
-String
+- String
 
 Boolean
 

@@ -238,7 +238,7 @@ Current Focus:
 
 - Used for primitive data types
 
-Number
+- Number
 
 String
 

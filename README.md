@@ -244,7 +244,7 @@ Current Focus:
 
 - Boolean
 
-Null
+- Null
 
 Undefined
 

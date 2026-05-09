@@ -242,7 +242,7 @@ Current Focus:
 
 - String
 
-Boolean
+- Boolean
 
 Null
 

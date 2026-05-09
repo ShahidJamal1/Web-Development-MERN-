@@ -246,7 +246,7 @@ Current Focus:
 
 - Null
 
-Undefined
+- Undefined
 
 BigInt
 

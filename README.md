@@ -23,7 +23,7 @@
 
 - Forms & input fields
 
-Media tags (image, audio, video)
+- Media tags (image, audio, video)
 
 Semantic HTML
 

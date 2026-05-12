@@ -254,7 +254,7 @@ Current Focus:
 
 - Key Characteristics:
 
-Stores a copy of the value
+- Stores a copy of the value
 
 Fast access
 

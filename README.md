@@ -252,7 +252,7 @@ Current Focus:
 
 - Symbol
 
-Key Characteristics:
+- Key Characteristics:
 
 Stores a copy of the value
 

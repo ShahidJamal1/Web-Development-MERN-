@@ -250,7 +250,7 @@ Current Focus:
 
 - BigInt
 
-Symbol
+- Symbol
 
 Key Characteristics:
 

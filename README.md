@@ -256,7 +256,7 @@ Current Focus:
 
 - Stores a copy of the value
 
-Fast access
+- Fast access
 
 Fixed memory size
 

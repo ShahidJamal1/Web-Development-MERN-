@@ -248,7 +248,7 @@ Current Focus:
 
 - Undefined
 
-BigInt
+- BigInt
 
 Symbol
 

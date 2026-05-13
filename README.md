@@ -272,7 +272,7 @@ Current Focus:
 
 - Arrays
 
-Functions
+- Functions
 
 Key Characteristics:
 

@@ -270,7 +270,7 @@ Current Focus:
 
 - Objects
 
-Arrays
+- Arrays
 
 Functions
 

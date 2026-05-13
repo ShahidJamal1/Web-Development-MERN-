@@ -258,7 +258,7 @@ Current Focus:
 
 - Fast access
 
-Fixed memory size
+- Fixed memory size
 
 Changes do not affect the original variable
 

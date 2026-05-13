@@ -266,7 +266,7 @@ Current Focus:
 
 ✅ Heap Memory
 
-Used for non-primitive (reference) data types
+- Used for non-primitive (reference) data types
 
 Objects
 

@@ -260,7 +260,7 @@ Current Focus:
 
 - Fixed memory size
 
-Changes do not affect the original variable
+- Changes do not affect the original variable
 
 📌 Example: When assigning one primitive variable to another, a copy is created.
 

@@ -268,7 +268,7 @@ Current Focus:
 
 - Used for non-primitive (reference) data types
 
-Objects
+- Objects
 
 Arrays
 

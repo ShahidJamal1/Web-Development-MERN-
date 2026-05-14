@@ -287,6 +287,7 @@ Key Characteristics:
 ✅ Stack vs Heap (Core Difference)
 
 - Stack	Heap
+
 Stores primitive values	Stores reference values
 Copy is created	Reference is shared
 Faster access	Slightly slower

@@ -278,7 +278,7 @@ Key Characteristics:
 
 - Stores data as a reference
 
-Multiple variables can point to the same memory
+- Multiple variables can point to the same memory
 
 Changes reflect in all references
 

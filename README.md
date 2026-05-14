@@ -285,6 +285,7 @@ Key Characteristics:
 📌 Example: When copying an object, both variables refer to the same memory location.
 
 ✅ Stack vs Heap (Core Difference)
+
 - Stack	Heap
 Stores primitive values	Stores reference values
 Copy is created	Reference is shared

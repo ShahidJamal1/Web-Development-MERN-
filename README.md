@@ -276,7 +276,7 @@ Current Focus:
 
 Key Characteristics:
 
-Stores data as a reference
+- Stores data as a reference
 
 Multiple variables can point to the same memory
 

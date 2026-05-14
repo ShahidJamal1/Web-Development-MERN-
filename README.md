@@ -280,7 +280,7 @@ Key Characteristics:
 
 - Multiple variables can point to the same memory
 
-Changes reflect in all references
+- Changes reflect in all references
 
 📌 Example: When copying an object, both variables refer to the same memory location.
 
